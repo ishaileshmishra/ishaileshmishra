@@ -1,4 +1,4 @@
-### Hello👋, I'm Shailesh Mishra 🙋‍♂️
+### Hello👋, I'm Shailesh 🙋‍♂️
 
 - 🔭 Currently working on Flutter, Android, Java, Python (DJango), Node.js(Nestjs)
 - 🌱 Currently learning Nestjs, Kotlin, SwiftUI & DS
