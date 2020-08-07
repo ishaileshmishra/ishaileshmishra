@@ -14,10 +14,10 @@
 
 ### 📫 How to reach me:
 
-[![Twitter: ishaileshmishr](https://img.shields.io/twitter/follow/iShaileshMisra?style=social)](https://twitter.com/iShaileshMisra)
+[![Twitter: ishaileshmishr](https://img.shields.io/twitter/follow/ishailesh18?style=social)](https://twitter.com/ishailesh18)
 [![Linkedin: ishaileshmisra](https://img.shields.io/badge/-ishaileshmishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishaileshmishra/)](https://www.linkedin.com/in/ishaileshmishra/)
 
-[Twitter](https://www.twitter.com/iShaileshMisra)
+[Twitter](https://www.twitter.com/ishailesh18)
 [LinkedIn](https://www.linkedin.com/in/ishaileshmishra)
 [Facebook](https://www.facebook.com/ishaielshmishra)
 
