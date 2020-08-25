@@ -1,7 +1,7 @@
 ### Hello👋, I'm Shailesh 🙋‍♂️
 
 - 🔭 Currently working on Flutter, Android, Java, Python (DJango), Node.js(Nestjs)
-- 🌱 Currently learning Nestjs, Kotlin, SwiftUI & DS
+- 🌱 Currently learning Nodejs using Nestjs framework and Spring Boot in Java
 - 👯 Looking to collaborate on Android, Java & Flutter
 - 🤔 Looking for help with DS and Node.js
 - 💬 Ask me about Android, Java & Flutter
