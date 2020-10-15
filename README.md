@@ -14,7 +14,7 @@
 
 ### 📫 How to reach me:
 
-[![Twitter: ishaileshmishr](https://img.shields.io/twitter/follow/shailesrmishra?style=social)](https://twitter.com/shailesrmishra)
+[![Twitter: ishailesmishra](https://img.shields.io/twitter/follow/shailesrmishra?style=social)](https://twitter.com/ishailesmishra)
 [![Linkedin: ishaileshmisra](https://img.shields.io/badge/-ishaileshmishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishaileshmishra/)](https://www.linkedin.com/in/ishaileshmishra/)
 
 [Twitter](https://www.twitter.com/ishailesh18)
