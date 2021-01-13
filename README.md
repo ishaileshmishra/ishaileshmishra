@@ -1,18 +1,27 @@
 ### Hello👋, I'm Shailesh 🙋‍♂️
 
-- 🔭 Currently working on Flutter, Android, Java, Python (DJango), Node.js(Nestjs)
-- 🌱 Currently learning Nodejs using Nestjs framework and Spring Boot in Java
-- 👯 Looking to collaborate on Android, Java & Flutter
-- 🤔 Looking for help with DS and Node.js
-- 💬 Ask me about Android, Java & Flutter
-- 🤔 Pronouns: He/His
-- ⚡ Fun fact: Spend most of my time watching netfix
+🔭 **Currently working** on Flutter, Android, Java, Python (DJango), Node.js(Nestjs)
+🌱 **Currently learning** Nodejs using Nestjs framework and Spring Boot in Java
+👯 **Looking to collaborate** on Android, Java & Flutter
+🤔 **Looking for help** with DS and Node.js
+💬 **Ask me about** Android, Java & Flutter
+🔭 **I’m currently working on**  Salesforce, react and node microservices
+🌱 **I’m currently learning** Python 
+📫 **How to reach me**: karkra.nikhil@gmail.com 
+😄 **Pronouns:** he/him/his 
+😄 **Fun fact**: Spend most of my time watching netfix
 
 ## 🔭 Tools & Technologies
 
 [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/android.png' alt='github' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/flutter.png' alt='flutter' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/dart.png' alt='Dart' height='40'>](https://github.com/ishaileshmishra)
  [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/java.png' alt='Java' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/javascript.png' alt='Javascript' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/python.png' alt='python' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/nodejs.png' alt='node' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/mongodb.png' alt='mobgodb' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/ios-logo.png' alt='ios' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/git.png' alt='git' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/github.png' alt='github' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/love.png' alt='love' height='40'>](https://github.com/ishaileshmishra)
 
+
+## statistics
+
+|       |  |
+| :----: |    :----:   |
+| ![nikhil karkra's github stats](https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=radical)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra)](https://github.com/anuraghazra/github-readme-stats)|
 
 
 ## Contact me
