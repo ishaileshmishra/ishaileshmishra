@@ -14,9 +14,11 @@
 
 ### 📫 How to reach me:
 
-[![Twitter: ishailesmishra](https://img.shields.io/twitter/follow/ishailesh18?style=social)](https://twitter.com/ishailesh18)
-[![Linkedin: ishaileshmisra](https://img.shields.io/badge/-ishaileshmishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishaileshmishra/)](https://www.linkedin.com/in/ishaileshmishra/)
-[![Linkedin: ishaileshmisra](https://img.shields.io/badge/-ishaileshmishra-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ishaileshmishra/)
+[![Twitter: ishailesh18](https://img.shields.io/twitter/follow/ishailesh18?style=social)](https://twitter.com/ishailesh18)
+
+[![Linkedin: ishaileshmisra](https://img.shields.io/badge/-ishaileshmishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishaileshmishra/)
+
+[![Facebook: ishaileshmisra](https://img.shields.io/badge/-ishaileshmishra-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ishaileshmishra/)
 
 [Twitter](https://www.twitter.com/ishailesh18)
 [LinkedIn](https://www.linkedin.com/in/ishaileshmishra)
