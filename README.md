@@ -21,4 +21,4 @@
 [LinkedIn](https://www.linkedin.com/in/ishaileshmishra)
 [Facebook](https://www.facebook.com/ishaielshmishra)
 
-💻Active Learning, 🤝Teamwork, 👨‍💻Problem Solving
+💻 Active Learning, 🤝 Teamwork, 👨‍ Problem Solving
