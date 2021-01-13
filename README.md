@@ -1,14 +1,21 @@
 ### Hello👋, I'm Shailesh 🙋‍♂️
 
 🔭 **Currently working** on Flutter, Android, Java, Python (DJango), Node.js(Nestjs)
-🌱 **Currently learning** Nodejs using Nestjs framework and Spring Boot in Java
+
+🌱 **I’m currently learning** Nodejs using Nestjs framework and Spring Boot in Java
+
 👯 **Looking to collaborate** on Android, Java & Flutter
+
 🤔 **Looking for help** with DS and Node.js
+
 💬 **Ask me about** Android, Java & Flutter
-🔭 **I’m currently working on**  Salesforce, react and node microservices
-🌱 **I’m currently learning** Python 
-📫 **How to reach me**: karkra.nikhil@gmail.com 
+
+🔭 **I’m currently working on**  Node, Flutter, Dart
+
+📫 **How to reach me**: mshaileshr@gmail.com / ishaileshmishra@gmail.com
+
 😄 **Pronouns:** he/him/his 
+
 😄 **Fun fact**: Spend most of my time watching netfix
 
 ## 🔭 Tools & Technologies
