@@ -14,8 +14,6 @@
 
 ```
 
-:white_check_mark: **PROFESSION** : **Mobile Tech Proficient**<br/> :white_check_mark: Hand On : (Android, iOS, Hybrid, Java, Swift, Flutter, Spring, Dart, Python (flask & DJango), Javascript, HTML, Node~Nestjs )<br />:white_check_mark: Currently Learning : Nodejs using Nestjs framework and Spring Boot in Java<br />:white_check_mark:  Looking to Collaborate : Android, Java & Flutter<br/>:white_check_mark: Ask Me About : Android, Java & Flutter<br/>:white_check_mark: Currently Working On : Node, Flutter, Dart<br/>:loud_sound: Pronouns : He/Him/His <br/>:tada: Fun Fact :  Spend most of my time watching netfix <br/> 
-
 ### 🔭 Tools & Technologies
 
 [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/android.png' alt='github' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/flutter.png' alt='flutter' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/dart.png' alt='Dart' height='40'>](https://github.com/ishaileshmishra)
