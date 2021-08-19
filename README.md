@@ -2,7 +2,19 @@
 
 ### I'm Shailesh 🙋‍♂️
 
-:white_check_mark: _PROFESSION_ : **Mobile Tech Proficient**<br/> :white_check_mark: _Hand On_ : (Android, iOS, Hybrid, Java, Swift, Flutter, Spring, Dart, Python (flask & DJango), Javascript, HTML, Node~Nestjs )<br />:white_check_mark: _Currently learning_ : Nodejs using Nestjs framework and Spring Boot in Java<br />:white_check_mark:  _Looking to collaborate_ on Android, Java & Flutter<br/>:white_check_mark: _Ask me about_ Android, Java & Flutter<br/>:white_check_mark: _currently working on_  Node, Flutter, Dart<br/>:loud_sound: _Pronouns_:   He/Him/His <br/>:tada: _Fun fact_:  Spend most of my time watching netfix <br/> 
+```diff
+@@ **PROFESSION** : **Mobile Tech Proficient
+@@ Hand On : (Android, iOS, Hybrid, Java, Swift, Flutter, Spring, Dart, Python (flask & DJango), Javascript, HTML, Node~Nestjs ) 
+@@ Currently Learning : Nodejs using Nestjs framework and Spring Boot in Java
+@@ Looking to Collaborate : Android, Java & Flutter
+@@ Ask Me About : Android, Java & Flutter
+@@ Currently Working On : Node, Flutter, Dart
+@@ Pronouns : He/Him/His
+@@ Fun Fact :  Spend most of my time watching netfix
+
+```
+
+:white_check_mark: **PROFESSION** : **Mobile Tech Proficient**<br/> :white_check_mark: Hand On : (Android, iOS, Hybrid, Java, Swift, Flutter, Spring, Dart, Python (flask & DJango), Javascript, HTML, Node~Nestjs )<br />:white_check_mark: Currently Learning : Nodejs using Nestjs framework and Spring Boot in Java<br />:white_check_mark:  Looking to Collaborate : Android, Java & Flutter<br/>:white_check_mark: Ask Me About : Android, Java & Flutter<br/>:white_check_mark: Currently Working On : Node, Flutter, Dart<br/>:loud_sound: Pronouns : He/Him/His <br/>:tada: Fun Fact :  Spend most of my time watching netfix <br/> 
 
 ### 🔭 Tools & Technologies
 
