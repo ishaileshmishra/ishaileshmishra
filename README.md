@@ -1,6 +1,6 @@
-## Hello 👋, 
+## Hello 👋 
 
-#### I'm Shailesh 🙋‍♂️
+### I'm Shailesh 🙋‍♂️
 
 :white_check_mark: _profession_ : **Mobile Tech Proficient**<br/> :white_check_mark: _Hand On_ (Android, iOS, Hybrid, Java, Swift, Flutter, Spring, Dart, Python (flask & DJango), Javascript, HTML, Node~Nestjs )<br />:white_check_mark: _Currently learning_ Nodejs using Nestjs framework and Spring Boot in Java<br />:white_check_mark: _Looking to collaborate_ on Android, Java & Flutter<br/>:white_check_mark: _Ask me about_ Android, Java & Flutter<br/>:white_check_mark: _currently working on_  Node, Flutter, Dart<br/>:loud_sound: _Pronouns_: he/him/his <br/>:tada: _Fun fact_: Spend most of my time watching netfix <br/><br/>## 🔭 Tools & Technologies
 
