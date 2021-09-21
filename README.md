@@ -14,22 +14,22 @@
 ## statistics
 
 <a href="https://github.com/ishaileshmishra">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=dark&line_height=28" alt="ishaileshmishra's github stats" height="220px" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=radical&line_height=28&count_private=true" alt="ishaileshmishra's github stats" height="220px" />
 </a>
-<a href="https://github.com/AbhishekDoshi26">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekDoshi26&theme=dark&hide_langs_below=1" height="220px"/>
+<a href="https://github.com/ishaileshmishra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&show_icons=true&theme=radical&hide_langs_below=1&line_height=28" height="220px"/>
 </a>
 <br><br>
 <a href="https://github.com/ishaileshmishra/flutter-ecommerce-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter-ecommerce-app&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter-ecommerce-app&show_icons=true&theme=radical&count_private=true" />
 </a>
 </a>
 <a href="https://github.com/ishaileshmishra/flutter-feed-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter-feed-app&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter-feed-app&show_icons=true&theme=radical&count_private=true" />
 </a>
 <br>
 <a href="https://github.com/ishaileshmishra/flutter_shopping_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter_shopping_app&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter_shopping_app&show_icons=true&theme=radical&count_private=true" />
 </a>
 <br>
 
