@@ -14,25 +14,25 @@
 ## statistics
 
 <a href="https://github.com/ishaileshmishra">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=radical&line_height=28&count_private=true" alt="ishaileshmishra's github stats" height="220px" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=gruvbox&line_height=28&count_private=true" alt="ishaileshmishra's github stats" height="220px" />
 </a>
 <a href="https://github.com/ishaileshmishra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&show_icons=true&theme=radical&hide_langs_below=1&line_height=28" height="220px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&show_icons=true&theme=gruvbox&hide_langs_below=1&line_height=28" height="220px"/>
 </a>
 
 
 <br>
 <a href="https://github.com/ishaileshmishra/flutter-ecommerce-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter-ecommerce-app&show_icons=true&theme=radical&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter-ecommerce-app&show_icons=true&theme=gruvbox&count_private=true" />
 </a>
 </a>
 <a href="https://github.com/ishaileshmishra/flutter-feed-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter-feed-app&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter-feed-app&show_icons=true&theme=gruvbox" />
 </a>
 <br>
 
 <a href="https://github.com/ishaileshmishra/flutter_shopping_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter_shopping_app&show_icons=true&theme=radical&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter_shopping_app&show_icons=true&theme=gruvbox&count_private=true" />
 </a>
 <br>
 
