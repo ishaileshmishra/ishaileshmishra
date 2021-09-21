@@ -2,7 +2,7 @@
 
 ###### Hello, i am Shailesh, Mobile Developer. I have developed many apps using android & iOS that are available in Play Store and passionate about developing cross platform applications using Flutter. 🙋‍♂️
 
-:white_check_mark: **PROFESSION** : **Mobile Tech Proficient**<br/> :white_check_mark: Hand On : (Android, iOS, Java, Swift, Flutter, Spring, Dart, Python (flask & DJango), Javascript, HTML, Node~Nestjs )<br />:white_check_mark: Currently Learning : Nodejs using Nestjs framework and Spring Boot in Java<br />:white_check_mark:  Looking to Collaborate : Android, Java & Flutter<br/>:white_check_mark: Ask Me About : Android, Java & Flutter<br/>:white_check_mark: Currently Working On : Node, Flutter, Dart<br/>:loud_sound: Pronouns : He/Him/His <br/>:tada: Fun Fact :  Spend most of my time watching netfix <br/> 
+:point_right: **PROFESSION** : **Mobile Tech Proficient**<br/> :point_right: Hand On : (Android, iOS, Java, Swift, Flutter, Spring, Dart, Python (flask & DJango), Javascript, HTML, Node~Nestjs )<br />:point_right: Currently Learning : Nodejs using Nestjs framework and Spring Boot in Java<br />:point_right:  Looking to Collaborate : Android, Java & Flutter<br/>:point_right: Ask Me About : Android, Java & Flutter<br/>:point_right: Currently Working On : Node, Flutter, Dart<br/>:loud_sound: Pronouns : :man: He/Him/His <br/>:tada: Fun Fact :  Spend most of my time watching netfix <br/> 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra) <br/> 
 
 ### 🔭 Tools & Technologies
@@ -19,15 +19,18 @@
 <a href="https://github.com/ishaileshmishra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&show_icons=true&theme=radical&hide_langs_below=1&line_height=28" height="220px"/>
 </a>
-<br><br>
+
+
+<br>
 <a href="https://github.com/ishaileshmishra/flutter-ecommerce-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter-ecommerce-app&show_icons=true&theme=radical&count_private=true" />
 </a>
 </a>
 <a href="https://github.com/ishaileshmishra/flutter-feed-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter-feed-app&show_icons=true&theme=radical&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter-feed-app&show_icons=true&theme=radical" />
 </a>
 <br>
+
 <a href="https://github.com/ishaileshmishra/flutter_shopping_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter_shopping_app&show_icons=true&theme=radical&count_private=true" />
 </a>
