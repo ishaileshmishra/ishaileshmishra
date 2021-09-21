@@ -2,8 +2,8 @@
 
 ###### Hello, i am Shailesh, Mobile Developer. I have developed many apps using android & iOS that are available in Play Store and passionate about developing cross platform applications using Flutter. 🙋‍♂️
 
-:white_check_mark: **PROFESSION** : **Mobile Tech Proficient**<br/> :white_check_mark: Hand On : (Android, iOS, Hybrid, Java, Swift, Flutter, Spring, Dart, Python (flask & DJango), Javascript, HTML, Node~Nestjs )<br />:white_check_mark: Currently Learning : Nodejs using Nestjs framework and Spring Boot in Java<br />:white_check_mark:  Looking to Collaborate : Android, Java & Flutter<br/>:white_check_mark: Ask Me About : Android, Java & Flutter<br/>:white_check_mark: Currently Working On : Node, Flutter, Dart<br/>:loud_sound: Pronouns : He/Him/His <br/>:tada: Fun Fact :  Spend most of my time watching netfix <br/> 
-
+:white_check_mark: **PROFESSION** : **Mobile Tech Proficient**<br/> :white_check_mark: Hand On : (Android, iOS, Java, Swift, Flutter, Spring, Dart, Python (flask & DJango), Javascript, HTML, Node~Nestjs )<br />:white_check_mark: Currently Learning : Nodejs using Nestjs framework and Spring Boot in Java<br />:white_check_mark:  Looking to Collaborate : Android, Java & Flutter<br/>:white_check_mark: Ask Me About : Android, Java & Flutter<br/>:white_check_mark: Currently Working On : Node, Flutter, Dart<br/>:loud_sound: Pronouns : He/Him/His <br/>:tada: Fun Fact :  Spend most of my time watching netfix <br/> 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra) <br/> 
 
 ### 🔭 Tools & Technologies
 
@@ -13,10 +13,25 @@
 
 ## statistics
 
-|       |  |
-| :----: |    :----:   |
-| ![ishaileshmishra's github stats](https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=radical)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra)](https://github.com/anuraghazra/github-readme-stats)|
-
+<a href="https://github.com/ishaileshmishra">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=dark&line_height=28" alt="ishaileshmishra's github stats" height="220px" />
+</a>
+<a href="https://github.com/AbhishekDoshi26">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekDoshi26&theme=dark&hide_langs_below=1" height="220px"/>
+</a>
+<br><br>
+<a href="https://github.com/ishaileshmishra/flutter-ecommerce-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter-ecommerce-app&theme=dark" />
+</a>
+</a>
+<a href="https://github.com/ishaileshmishra/flutter-feed-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter-feed-app&theme=dark" />
+</a>
+<br>
+<a href="https://github.com/ishaileshmishra/flutter_shopping_app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter_shopping_app&theme=dark" />
+</a>
+<br>
 
 ## Contact me
 
@@ -24,3 +39,12 @@
 
 
 💻 Active Learning, 🤝 Teamwork, 👨‍ Problem Solving
+
+
+<br><br>
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/shaileshmishra"><img height=150 src="https://miro.medium.com/max/1400/1*VqLYs481X9kw_CTosgqlcg.png"></img></a>
+
+</div>
