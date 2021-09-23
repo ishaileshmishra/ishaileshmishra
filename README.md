@@ -3,6 +3,7 @@
 ###### Hello, i am Shailesh, Mobile Developer. I have developed many apps using android & iOS that are available in Play Store and passionate about developing cross platform applications using Flutter. 🙋‍♂️
 
 :point_right: **PROFESSION** : **Mobile Tech Proficient**<br/> :point_right: Hand On : (Android, iOS, Java, Swift, Flutter, Spring, Dart, Python (flask & DJango), Javascript, HTML, Node~Nestjs )<br />:point_right: Currently Learning : Nodejs using Nestjs framework and Spring Boot in Java<br />:point_right:  Looking to Collaborate : Android, Java & Flutter<br/>:point_right: Ask Me About : Android, Java & Flutter<br/>:point_right: Currently Working On : Node, Flutter, Dart<br/>:loud_sound: Pronouns : :man: He/Him/His <br/>:tada: Fun Fact :  Spend most of my time watching netfix <br/> 
+<br>
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra) <br/> 
 
 ### 🔭 Tools & Technologies
