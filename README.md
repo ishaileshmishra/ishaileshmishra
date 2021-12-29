@@ -1,10 +1,13 @@
-## Hi ( नमस्ते ) 👋 
+## Hello Developer ( नमस्ते ) 👋 
 
 #### <b>Hello, I'm Shailesh, India based mobile developer. I have developed many apps using android & iOS that are available in Play Store and passionate about developing cross platform applications using Flutter. 🙋‍♂️</b>
 
-:point_right: **PROFESSION** : **Mobile Tech Proficient**<br/> :point_right: Hand On : (Android, iOS, Java, Swift, Flutter, Spring, Dart, Python (flask & django), Javascript, HTML, Nestjs )<br />:point_right: Currently Learning : Nodejs using Nestjs framework and Spring Boot in Java<br />:point_right:  Looking to Collaborate : Android, Java & Flutter<br/>:point_right: Ask Me About : Android, Java & Flutter<br/>:point_right: Currently Working On : Node, Flutter, Dart<br/>:loud_sound: Pronouns : :man: He/Him/His <br/>:tada: Fun Fact :  Spend most of my time watching netfix <br/> 
-<br>
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra) <br/> 
+![Number of visitors](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra) <br/>   
+
+[Read Articles From Medium](https://ishaileshmishra.medium.com)
+
+:point_right: **PROFESSION** : **Mobile Tech Proficient**<br/> :point_right: Hand On : (Android, iOS, Java, Swift, Flutter, Spring, Dart, Python (flask & django), Javascript, HTML, Nestjs )<br />:point_right: Currently Learning : Nodejs using Nestjs framework and Spring Boot in Java<br />:point_right:  Looking to Collaborate : Android, Java & Flutter<br/>:point_right: Ask Me About : Android, Java & Flutter<br/>:point_right: Currently Working On : Node, Flutter, Dart<br/>:loud_sound: Pronouns : :man: He/Him/His <br/><br>
+
 
 ### 🔭 Tools & Technologies
 
@@ -12,7 +15,7 @@
  [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/java.png' alt='Java' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/javascript.png' alt='Javascript' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/python.png' alt='python' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/nodejs.png' alt='node' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/mongodb.png' alt='mobgodb' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/ios-logo.png' alt='ios' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/git.png' alt='git' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/github.png' alt='github' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/love.png' alt='love' height='40'>](https://github.com/ishaileshmishra)
 
 
-## statistics
+## Statistics
 
 <a href="https://github.com/ishaileshmishra">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=gruvbox&line_height=28&count_private=true" alt="ishaileshmishra's github stats" height="220px" />
