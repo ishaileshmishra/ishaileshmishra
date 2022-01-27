@@ -2,11 +2,12 @@
 
 #### <b>Hello, I'm Shailesh, India based mobile developer. I have developed many apps using android & iOS that are available in Play Store and passionate about developing cross platform applications using Flutter. 🙋‍♂️</b>
 
-![Number of visitors](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra) <br/>   
+![Number of visitors](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)<br/>
 
-[Read Articles From Medium](https://ishaileshmishra.medium.com)
 
 :point_right: **PROFESSION** : **Mobile Tech Proficient**<br/> :point_right: Hand On : (Android, iOS, Java, Swift, Flutter, Spring, Dart, Python (flask & django), Javascript, HTML, Nestjs )<br />:point_right: Currently Learning : Nodejs using Nestjs framework and Spring Boot in Java<br />:point_right:  Looking to Collaborate : Android, Java & Flutter<br/>:point_right: Ask Me About : Android, Java & Flutter<br/>:point_right: Currently Working On : Node, Flutter, Dart<br/>:loud_sound: Pronouns : :man: He/Him/His <br/><br>
+
+READ ARTICLES FROM [MEDIUM](https://ishaileshmishra.medium.com)<br/><br/>
 
 
 ### 🔭 Tools & Technologies
