@@ -9,6 +9,8 @@
 
 READ ARTICLES FROM [MEDIUM](https://ishaileshmishra.medium.com)<br/><br/>
 
+VIEW [RESUME](https://resume.io/r/3qd8l9xvG)<br/><br/>
+
 
 ### 🔭 Tools & Technologies
 
