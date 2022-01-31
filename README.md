@@ -2,11 +2,11 @@
 
 ##### <b>Hello, I'm Shailesh Mishra, Mobile developer based on India<br>I have developed many apps using android & iOS that are available in Play Store. Passionate about developing cross platform applications using Flutter. 🙋‍♂️</b>
 
-![Number of visitors](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)<br/>
+![NUMBER OF VISITORS](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)<br/>
 
-READ ARTICLES FROM [MEDIUM](https://ishaileshmishra.medium.com)<br/>
+READ ARTICLES FROM [{MEDIUM}](https://ishaileshmishra.medium.com)<br/>
 
-VIEW [RESUME](https://resume.io/r/3qd8l9xvG)<br/><br/>
+VIEW [{RESUME}](https://resume.io/r/3qd8l9xvG)<br/><br/>
 
 
 :point_right: <b>PROFESSION</b> : <b>Mobile Tech Proficient<b/><br>
