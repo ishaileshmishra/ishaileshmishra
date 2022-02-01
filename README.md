@@ -1,6 +1,6 @@
 # Hello Developers  नमस्ते 🙏  
 
-##### <b>Hello, I'm Shailesh Mishra, Mobile developer based on India<br>I have developed many apps using android & iOS that are available in Play Store. Passionate about developing cross platform applications using Flutter. 🙋‍♂️</b>
+##### <b>Hello, I'm Shailesh Mishra, Mobile developer based on India<br>Passionate about developing cross platform applications using Flutter. 🙋‍♂️</b>
 
 ![NUMBER OF VISITORS](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)<br/>
 
