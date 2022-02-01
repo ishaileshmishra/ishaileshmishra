@@ -1,6 +1,13 @@
 # Hello Developers  नमस्ते 🙏  
 
-##### <b>Hello, I'm Shailesh Mishra, Mobile developer based on India<br>Passionate about developing cross platform applications using Flutter. 🙋‍♂️</b>
+<b>Hello, I'm Shailesh Mishra, Mobile developer based on India<br>
+ 
+Mobile Engineering [#Java • #Kotlin • #Flutter • Dart • AR • VR] at @Contentstack, Google Developer Expert for Android & Flutter - Passionate about mobile development and learning.<br>
+
+Learning everything 🙂 Working in Dart, Python, Node & Go<br><br>
+Interested in #AI • #MachineLearning • #DeepLearning • #IoT<br>
+
+
 
 ![NUMBER OF VISITORS](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)<br/>
 
