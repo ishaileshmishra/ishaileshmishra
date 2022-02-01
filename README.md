@@ -70,10 +70,6 @@ VIEW [{RESUME}](https://resume.io/r/3qd8l9xvG)<br/><br/>
 
 ## Scan here
 
-![Github](./qrcodes/github.png)<br>
-![Facebook](./qrcodes/facebook.png)<br>
-![LinkedIn](./qrcodes/linkedin.png)<br>
-![Phone](./qrcodes/phone.png)<br>
-![Twitter](./qrcodes/twitter.png)<br><br>
+![Github](./qrcodes/github.png). ![Facebook](./qrcodes/facebook.png)<br> ![LinkedIn](./qrcodes/linkedin.png)<br> ![Phone](./qrcodes/phone.png)<br> ![Twitter](./qrcodes/twitter.png)<br><br>
 
-Download Resume [here]()
+Download Resume [here](https://github.com/ishaileshmishra/ishaileshmishra/raw/master/qrcodes/resume.pdf)
