@@ -73,4 +73,4 @@ VIEW [{RESUME}](https://resume.io/r/3qd8l9xvG)<br/><br/>
 ![Github](./qrcodes/github.png) ![Facebook](./qrcodes/facebook.png)
 ![LinkedIn](./qrcodes/linkedin.png) ![Phone](./qrcodes/phone.png) ![Twitter](./qrcodes/twitter.png)<br>
 
-Download Resume [here](https://github.com/ishaileshmishra/ishaileshmishra/raw/master/qrcodes/resume.pdf)
+Download Resume [Here](https://github.com/ishaileshmishra/ishaileshmishra/raw/master/qrcodes/resume.pdf)
