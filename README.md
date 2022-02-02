@@ -15,10 +15,10 @@ VIEW [{RESUME}](https://resume.io/r/3qd8l9xvG)<br/><br/>
 
 :point_right: <b>PROFESSION</b> : <b>Mobile Tech Proficient<b/><br>
 :point_right: <b>Languages</b> : Android, Java, Swift, Flutter, Spring, Dart, Python (flask & django), Javascript, HTML, Nestjs<br>
-:point_right: <b>Learning</b> : Nodejs using Nestjs framework and Spring Boot in Java<br>
-:point_right: <b>Looking to Collaborate</b> : Android, Java & Flutter<br/>
-:point_right: <b>Ask Me About</b> : Android, Java & Flutter<br/>
-:point_right: <b>Currently Working On</b> : Node, Flutter, Dart<br/>
+:point_right: <b>Learning</b> : Nodejs using nestjs framework and Spring Boot in Java<br>
+:point_right: <b>Looking to collaborate</b> : Android, Java & Flutter<br/>
+:point_right: <b>Ask about me</b> : Android, Java & Flutter<br/>
+:point_right: <b>Currently working On</b> : Node, Flutter, Dart<br/>
 :loud_sound: <b>Pronouns</b> : :man: He/Him/His <br/><br>
 
 ## 🔭 TOOLS & TECHNOLOGIES
