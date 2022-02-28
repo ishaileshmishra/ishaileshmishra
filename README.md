@@ -45,6 +45,10 @@ VIEW [{RESUME}](https://resume.io/r/3qd8l9xvG)<br/><br/>
 </a>
 <br>
 
+<a href="https://github.com/ishaileshmishra/furniture_onboarding_flutter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=furniture_onboarding_flutter&show_icons=true&theme=gruvbox" />
+</a>
+
 <a href="https://github.com/ishaileshmishra/flutter_shopping_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter_shopping_app&show_icons=true&theme=gruvbox&count_private=true" />
 </a>
