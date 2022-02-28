@@ -62,7 +62,7 @@ VIEW [{RESUME}](https://resume.io/r/3qd8l9xvG)<br/><br/>
 🤝 Teamwork<br>
 👨‍ Problem Solving<br>
 📧 ishaileshmishra@gmail.com<br>
-👟 <https://ishaileshmishra.medium.com/>
+📓 <https://ishaileshmishra.medium.com/>
 
 <br><br>
 
