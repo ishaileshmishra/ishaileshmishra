@@ -4,7 +4,7 @@
 
 - ᗰOᗷIᒪE TEᑕᕼ EᑎTᕼᑌSIᗩST
 - ᒪEᗩᖇᑎIᑎG ᗩᑎᗪ SᕼᗩᖇIᑎG.<br>
-- ᗯOᖇKIᑎG Oᑎ ᒍᗩᐯᗩ, ᖴᒪᑌTTEᖇ, ᗩᑎᗪᖇOIᗪ, ᒍᗩᐯᗩ, SᗯIᖴT, SᑭᖇIᑎG-ᗷOOT, ᗪᗩᖇT, ᑭYTᕼOᑎ ( ᗪᒍᗩᑎGO & ᖴᒪᗩSK), ᑎOᗪE.ᒍS, ᒍᗩᐯᗩSᑕᖇIᑭT, ᕼTᗰᒪ
+- ᗯOᖇKIᑎG Oᑎ ᒍᗩᐯᗩ, ᗩᑎᗪᖇOIᗪ, SᗯIᖴT, SᑭᖇIᑎG-ᗷOOT, ᖴᒪᑌTTEᖇ, ᗪᗩᖇT, ᑭYTᕼOᑎ ( ᗪᒍᗩᑎGO & ᖴᒪᗩSK), ᑎOᗪE.ᒍS, ᒍᗩᐯᗩSᑕᖇIᑭT & ᕼTᗰᒪ
 - IᑎTEᖇESTEᗪ Iᑎ ᗩI, ᗰᗩᑕᕼIᑎE ᒪEᗩᖇIᑎG & GO
 - ᑎᑌᗰᗷEᖇ Oᖴ ᐯISITOᖇS ![ℕ𝕌𝕄𝔹𝔼ℝ 𝕆𝔽 𝕍𝕀𝕊𝕀𝕋𝕆ℝ𝕊](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)<br/>
 
