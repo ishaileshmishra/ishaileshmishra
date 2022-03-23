@@ -1,27 +1,26 @@
-# Hello Developers नमस्ते 🙏
+# ℍ𝕖𝕝𝕝𝕠 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣𝕤
 
-<b>Hello, I'm Shailesh Mishra, Mobile developer based on India<br>
+<b>ʜᴇʟʟᴏ, ɪ'ᴍ ꜱʜᴀɪʟᴇꜱʜ ᴍɪꜱʜʀᴀ, ᴍᴏʙɪʟᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ʙᴀꜱᴇᴅ ᴏɴ ɪɴᴅɪᴀ<br>
 
-Mobile Engineering [#Java • #Kotlin • #Flutter • Dart • AR • VR] at @Contentstack, Google Developer Expert for Android & Flutter - Passionate about mobile development and learning.<br>
+ᴍᴏʙɪʟᴇ ᴇɴɢɪɴᴇᴇʀɪɴɢ [#ᴊᴀᴠᴀ • #ᴋᴏᴛʟɪɴ • #ꜰʟᴜᴛᴛᴇʀ • ᴅᴀʀᴛ • ᴀʀ • ᴠʀ] ᴀᴛ @ᴄᴏɴᴛᴇɴᴛꜱᴛᴀᴄᴋ, ɢᴏᴏɢʟᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴇxᴘᴇʀᴛ ꜰᴏʀ ᴀɴᴅʀᴏɪᴅ & ꜰʟᴜᴛᴛᴇʀ - ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴍᴏʙɪʟᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴀɴᴅ ʟᴇᴀʀɴɪɴɢ.<br>
 
-Learning everything 🙂 Working in Dart, Python, Node & Go<br><br>
-Interested in #AI • #MachineLearning • #DeepLearning • #IoT<br>
+𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝕖𝕧𝕖𝕣𝕪𝕥𝕙𝕚𝕟𝕘 🙂 𝕎𝕠𝕣𝕜𝕚𝕟𝕘 𝕚𝕟 𝔻𝕒𝕣𝕥, ℙ𝕪𝕥𝕙𝕠𝕟, ℕ𝕠𝕕𝕖 & 𝔾𝕠<br>
+𝕀𝕟𝕥𝕖𝕣𝕖𝕤𝕥𝕖𝕕 𝕚𝕟 #𝔸𝕀 • #𝕄𝕒𝕔𝕙𝕚𝕟𝕖𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 • #𝔻𝕖𝕖𝕡𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 • #𝕀𝕠𝕋<br>
 
-![NUMBER OF VISITORS](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)<br/>
+![ℕ𝕌𝕄𝔹𝔼ℝ 𝕆𝔽 𝕍𝕀𝕊𝕀𝕋𝕆ℝ𝕊](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)<br/>
 
-READ ARTICLES FROM [{MEDIUM}](https://ishaileshmishra.medium.com)<br/>
+🅁🄴🄰🄳 🄰🅁🅃🄸🄲🄻🄴🅂 [{MEDIUM}](https://ishaileshmishra.medium.com)<br/>
 
-VIEW [{RESUME}](https://resume.io/r/3qd8l9xvG)<br/><br/>
+νιєω [{𝗥𝗘𝗦𝗨𝗠𝗘}](https://resume.io/r/3qd8l9xvG)<br/><br/>
 
-:point_right: <b>PROFESSION</b> : Mobile Tech Proficient<br>
-:point_right: <b>Languages</b> :  Android, Java, Swift, Flutter, Spring, Dart, Python (flask & django), Javascript, HTML, Nestjs<br>
-:point_right: <b>Learning</b> :   Nodejs using nestjs framework and Spring Boot in Java<br>
-:point_right: <b>Looking to collaborate</b> : Android, Java & Flutter<br/>
-:point_right: <b>Ask about me</b> : Android, Java & Flutter<br/>
-:point_right: <b>Currently working On</b> : Node, Flutter, Dart<br/>
-:loud_sound: <b>Pronouns</b> : :man: He/Him/His <br/><br>
+:point_right: <b>PROFESSION</b> : 𝗠𝗼𝗯𝗶𝗹𝗲 𝗧𝗲𝗰𝗵 𝗣𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝘁<br>
+:point_right: <b>Languages</b> :  𝙰𝚗𝚍𝚛𝚘𝚒𝚍, 𝙹𝚊𝚟𝚊, 𝚂𝚠𝚒𝚏𝚝, 𝙵𝚕𝚞𝚝𝚝𝚎𝚛, 𝚂𝚙𝚛𝚒𝚗𝚐, 𝙳𝚊𝚛𝚝, 𝙿𝚢𝚝𝚑𝚘𝚗 (𝚏𝚕𝚊𝚜𝚔 & 𝚍𝚓𝚊𝚗𝚐𝚘), 𝙹𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝, 𝙷𝚃𝙼𝙻, 𝙽𝚎𝚜𝚝𝚓𝚜<br>
+:point_right: <b>Learning</b> :   𝙽𝚘𝚍𝚎𝚓𝚜 𝚞𝚜𝚒𝚗𝚐 𝚗𝚎𝚜𝚝𝚓𝚜 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔 𝚊𝚗𝚍 𝚂𝚙𝚛𝚒𝚗𝚐 𝙱𝚘𝚘𝚝 𝚒𝚗 𝙹𝚊𝚟𝚊<br>
+:point_right: <b>Looking to collaborate</b> : ᴀɴᴅʀᴏɪᴅ, ᴊᴀᴠᴀ & ꜰʟᴜᴛᴛᴇʀ<br/>
+:point_right: <b>Ask about me</b> : ᴀɴᴅʀᴏɪᴅ, ᴊᴀᴠᴀ & ꜰʟᴜᴛᴛᴇʀ<br/>
+:point_right: <b>Currently working On</b> : ɴᴏᴅᴇᴊꜱ, ꜱᴘʀɪɴɢʙᴏᴏᴛ, ꜰʟᴜᴛᴛᴇʀ ᴀɴᴅ ᴅᴀʀᴛ<br/>
 
-## 🔭 TOOLS & TECHNOLOGIES
+## 🔭 🆃🅾🅾🅻🆂 & 🆃🅴🅲🅷🅽🅾🅻🅾🅶🅸🅴🆂
 
 [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/android.png' alt='github' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/flutter.png' alt='flutter' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/dart.png' alt='Dart' height='40'>](https://github.com/ishaileshmishra)
 [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/java.png' alt='Java' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/javascript.png' alt='Javascript' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/python.png' alt='python' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/nodejs.png' alt='node' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/mongodb.png' alt='mobgodb' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/ios-logo.png' alt='ios' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/git.png' alt='git' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/github.png' alt='github' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/love.png' alt='love' height='40'>](https://github.com/ishaileshmishra)
