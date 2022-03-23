@@ -3,9 +3,6 @@
 ᕼEᒪᒪO, I’ᗰ SᕼᗩIᒪESᕼ ᗰISᕼᖇᗩ,  A TEᑕᕼIE ᗷᗩSEᗪ Oᑎ IᑎᗪIᗩ
 
 - ᗰOᗷIᒪE TEᑕᕼ EᑎTᕼᑌSIᗩST
-- ᗰOᗷIᒪE EᑎGIᑎEEᖇIᑎG (ᒍᗩᐯᗩ, KOTᒪIᑎ, ᖴᒪᑌTTEᖇ, ᗪᗩᖇT, ᑭYTᕼOᑎ & ᑎOᗪE)
-- ᗩT ᑕOᑎTEᑎTSTᗩᑕK, GOOGᒪE ᗪEᐯEᒪOᑭEᖇ E᙭ᑭEᖇT ᖴOᖇ ᗩᑎᗪᖇOIᗪ & ᖴᒪᑌTTEᖇ
-- ᑭᗩSSIOᑎᗩTE ᗩᗷOᑌT ᗰOᗷIᒪE ᗪEᐯEᒪOᑭᗰEᑎT 
 - ᒪEᗩᖇᑎIᑎG ᗩᑎᗪ SᕼᗩᖇIᑎG.<br>
 - ᗯOᖇKIᑎG Oᑎ ᒍᗩᐯᗩ, ᖴᒪᑌTTEᖇ, ᗩᑎᗪᖇOIᗪ, ᒍᗩᐯᗩ, SᗯIᖴT, SᑭᖇIᑎG-ᗷOOT, ᗪᗩᖇT, ᑭYTᕼOᑎ ( ᗪᒍᗩᑎGO & ᖴᒪᗩSK), ᑎOᗪE.ᒍS, ᒍᗩᐯᗩSᑕᖇIᑭT, ᕼTᗰᒪ
 - IᑎTEᖇESTEᗪ Iᑎ ᗩI, ᗰᗩᑕᕼIᑎE ᒪEᗩᖇIᑎG & GO
