@@ -50,11 +50,11 @@
 
 [<img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'>](https://github.com/ishaileshmishra) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ishaileshmishra) [<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ishaileshmishra/) [<img src='https://img.icons8.com/color/2x/twitter.png' alt='twitter' height='40'>](https://twitter.com/ishaileshmishr) [<img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/ishaileshmishra) [<img src='https://img.icons8.com/color/2x/youtube-play.png' alt='youtube' height='40'>](https://www.youtube.com/channel/ishaileshmishra) [<img src='https://img.icons8.com/color/2x/medium-logo.png' alt='Medium' height='40'>](https://medium.com/@ishaileshmishra)
 
-💻 ᗩᑕTIᐯE ᒪEᗩᖇᑎIᑎG<br>
-🤝 TEᗩᗰᗯOᖇK<br>
-👨‍ ᑭᖇOᗷᒪEᗰ SOᒪᐯIᑎG<br>
-📧 ISᕼᗩIᒪESᕼᗰISᕼᖇᗩ@GᗰᗩIᒪ.ᑕOᗰ<br>
-📓 <ᕼTTᑭS://ISᕼᗩIᒪESᕼᗰISᕼᖇᗩ@GᗰᗩIᒪ.ᗰEᗪIᑌᗰ.ᑕOᗰ/>
+💻 ᗩᑕTIᐯE ᒪEᗩᖇᑎIᑎG</br></br>
+🤝 TEᗩᗰᗯOᖇK</br></br>
+👨‍ ᑭᖇOᗷᒪEᗰ SOᒪᐯIᑎG</br></br>
+📧 ISᕼᗩIᒪESᕼᗰISᕼᖇᗩ@GᗰᗩIᒪ.ᑕOᗰ</br></br>
+📓 ᕼTTᑭS://ISᕼᗩIᒪESᕼᗰISᕼᖇᗩ@GᗰᗩIᒪ.ᗰEᗪIᑌᗰ.ᑕOᗰ<br/>
 
 <br><br>
 <div align="center">
