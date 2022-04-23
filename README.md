@@ -11,13 +11,22 @@
   ᖇEᗩᗪ ᗩᖇTIᑕᒪE [MEDIUM](https://ishaileshmishra.medium.com)<br/>
 
   νιєω [𝗥𝗘𝗦𝗨𝗠𝗘](https://resume.io/r/3qd8l9xvG)<br/><br/>
-  
-  
 
-## 𝚃𝚘𝚘𝚕𝚜 & 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
+
+## Tools & Technologies
 
 [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/android.png' alt='github' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/flutter.png' alt='flutter' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/dart.png' alt='Dart' height='40'>](https://github.com/ishaileshmishra)
 [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/java.png' alt='Java' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/javascript.png' alt='Javascript' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/python.png' alt='python' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/nodejs.png' alt='node' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/mongodb.png' alt='mobgodb' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/ios-logo.png' alt='ios' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/git.png' alt='git' height='40'>](https://github.com/ishaileshmishra) [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/github.png' alt='github' height='40'>](https://github.com/ishaileshmishra) [<img src='https://miro.medium.com/max/640/1*XzIRJGujfqAiOV2EIQgR_Q.png' alt='flask' height='40'>](https://github.com/ishaileshmishra) [<img src='https://www.pngkit.com/png/detail/70-702065_django-python-logo-apress-the-definitive-guide-to.png' alt='flask' height='40'>](https://github.com/ishaileshmishra)
+
+
+## Certifications:
+
+<img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50025076' alt='github' height='100'>   <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/50025076' alt='github' height='100'> 
+<img src='https://udemy-certificate.s3.amazonaws.com/image/UC-c588ec1c-2572-46dc-8518-db2382c11ed6.jpg?v=1645622916000' alt='github' height='100'>
+<img src='https://udemy-certificate.s3.amazonaws.com/image/UC-c57290dd-4cb2-413a-9065-ac454c923124.jpg?v=1629188610000' alt='github' height='100'>
+<!-- <img src='https://www.credential.net/720d7a97-74e6-4972-a3a2-62f2df1fc902' alt='github' height='100'> -->
+
+
 
 ## STᗩTISTIᑕS
 
