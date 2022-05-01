@@ -1,4 +1,4 @@
-# нєℓℓσ ∂єνєℓσρєяѕ
+# Namaste Developers 🙏
 
 ᕼEᒪᒪO, I’ᗰ SᕼᗩIᒪESᕼ ᗰISᕼᖇᗩ,  A TEᑕᕼIE ᗷᗩSEᗪ Oᑎ IᑎᗪIᗩ
 
