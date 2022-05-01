@@ -1,4 +1,4 @@
-# Namaste Developers 🙏
+# Namaste Coders 🙏
 
 ᕼEᒪᒪO, I’ᗰ SᕼᗩIᒪESᕼ ᗰISᕼᖇᗩ,  A TEᑕᕼIE ᗷᗩSEᗪ Oᑎ IᑎᗪIᗩ
 
