@@ -1,6 +1,6 @@
 ## Welcome 🙏
 
-ᕼEᒪᒪO, I’ᗰ SᕼᗩIᒪESᕼ ᗰISᕼᖇᗩ,  A TEᑕᕼIE ᗷᗩSEᗪ Oᑎ IᑎᗪIᗩ
+ᕼEᒪᒪO, I’ᗰ A TEᑕᕼIE ᗷᗩSEᗪ Oᑎ IᑎᗪIᗩ
 
 - ᗰOᗷIᒪE TEᑕᕼ EᑎTᕼᑌSIᗩST
 - ᒪEᗩᖇᑎIᑎG ᗩᑎᗪ SᕼᗩᖇIᑎG.<br>
