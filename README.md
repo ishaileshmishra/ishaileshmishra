@@ -1,6 +1,7 @@
 ## WELCOME DEVELOPERS 🙏
 
-ᕼEᒪᒪO, I AM A TEᑕᕼIE ᗷᗩSEᗪ ON INDIA
+ᕼEᒪᒪO, I AM AN ASPIRING FUll Stack TEᑕᕼIE ᗷASEᗪ ON INDIA<br>
+Starting by questioning the capabilities of Java, I searched YouTube for the answer and that's when the developer in me awoke. I began my journey as an Android Application Developer, and now on the road to become a Full Stack developer.
 
 - MOBILE TEᑕᕼ ENTᕼᑌSIᗩST
 - ᒪEARNING AND SᕼARING <br>
@@ -9,8 +10,6 @@
 - NUMBER Oᖴ VISITORS ![ℕ𝕌𝕄𝔹𝔼ℝ 𝕆𝔽 𝕍𝕀𝕊𝕀𝕋𝕆ℝ𝕊](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)<br/>
 
 #### READ AᖇTIᑕᒪE ON [MEDIUM](https://ishaileshmishra.medium.com)<br/>
-
-#### VIEW [RESUME](https://resume.io/r/3qd8l9xvG)<br/>
 
 #### [YOUTUBE](https://www.youtube.com/channel/UCifJ2nId3EIvRhLaNH2oqIg)<br/>
 
