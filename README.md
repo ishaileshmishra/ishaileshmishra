@@ -1,7 +1,7 @@
 ## WELCOME DEVELOPERS 🙏
 
 ᕼEᒪᒪO, I AM AN ASPIRING FUll Stack TEᑕᕼIE ᗷASEᗪ ON INDIA<br>
-Starting by questioning the capabilities of Java, I searched YouTube for the answer and that's when the developer in me awoke. I began my journey as an Android Application Developer, and now on the road to become a Full Stack developer.
+Starting by questioning the capabilities of Java. Began my journey as an Android Application Developer.
 
 - MOBILE TEᑕᕼ ENTᕼᑌSIᗩST
 - ᒪEARNING AND SᕼARING <br>
