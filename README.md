@@ -10,7 +10,7 @@
 
 #### READ AᖇTIᑕᒪE ON [MEDIUM](https://ishaileshmishra.medium.com)<br/>
 
-#### VIEW [RESUME](https://resume.io/r/3qd8l9xvG)<br/><br/>
+#### VIEW [RESUME](https://resume.io/r/3qd8l9xvG)<br/>
 
 #### [YOUTUBE](https://www.youtube.com/channel/UCifJ2nId3EIvRhLaNH2oqIg)<br/>
 
