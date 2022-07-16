@@ -12,6 +12,7 @@
 
 #### VIEW [RESUME](https://resume.io/r/3qd8l9xvG)<br/><br/>
 
+#### [YOUTUBE](https://www.youtube.com/channel/UCifJ2nId3EIvRhLaNH2oqIg)<br/>
 
 ## Tools & Technologies
 
