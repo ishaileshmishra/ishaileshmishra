@@ -1,14 +1,14 @@
-## Welcome 🙏
+## WELCOME DEVELOPERS 🙏
 
-ᕼEᒪᒪO, I’ᗰ A TEᑕᕼIE ᗷᗩSEᗪ Oᑎ IᑎᗪIᗩ
+ᕼEᒪᒪO, I AM A TEᑕᕼIE ᗷᗩSEᗪ ON INDIA
 
-- ᗰOᗷIᒪE TEᑕᕼ EᑎTᕼᑌSIᗩST
-- ᒪEᗩᖇᑎIᑎG ᗩᑎᗪ SᕼᗩᖇIᑎG.<br>
-- ᗯOᖇKIᑎG Oᑎ ᒍᗩᐯᗩ, ᗩᑎᗪᖇOIᗪ, SᗯIᖴT, SᑭᖇIᑎG-ᗷOOT, ᖴᒪᑌTTEᖇ, ᗪᗩᖇT, ᑭYTᕼOᑎ ( ᗪᒍᗩᑎGO & ᖴᒪᗩSK), ᑎOᗪE.ᒍS, ᒍᗩᐯᗩSᑕᖇIᑭT & ᕼTᗰᒪ
-- IᑎTEᖇESTEᗪ Iᑎ ᗩI, ᗰᗩᑕᕼIᑎE ᒪEᗩᖇIᑎG & GO
-- ᑎᑌᗰᗷEᖇ Oᖴ ᐯISITOᖇS ![ℕ𝕌𝕄𝔹𝔼ℝ 𝕆𝔽 𝕍𝕀𝕊𝕀𝕋𝕆ℝ𝕊](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)<br/>
+- MOBILE TEᑕᕼ ENTᕼᑌSIᗩST
+- ᒪEARNING AND SᕼARING <br>
+- ᗯOᖇKING Oᑎ ᒍAᐯA, ᗩNᗪᖇOIᗪ, SᗯIᖴT, SᑭᖇIᑎG-ᗷOOT, ᖴᒪUTTEᖇ, ᗪAᖇT, PYTᕼOᑎ (ᗪᒍANGO & ᖴᒪASK), NODE.ᒍS, ᒍᗩᐯᗩSᑕᖇIᑭT AND ᕼTMᒪ
+- INTEᖇESTED IN AI, MACHINE ᒪEARING AND GO
+- NUMBER Oᖴ VISITORS ![ℕ𝕌𝕄𝔹𝔼ℝ 𝕆𝔽 𝕍𝕀𝕊𝕀𝕋𝕆ℝ𝕊](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)<br/>
 
-#### ᖇEᗩᗪ ᗩᖇTIᑕᒪE ON [MEDIUM](https://ishaileshmishra.medium.com)<br/>
+#### READ AᖇTIᑕᒪE ON [MEDIUM](https://ishaileshmishra.medium.com)<br/>
 
 #### VIEW [RESUME](https://resume.io/r/3qd8l9xvG)<br/><br/>
 
