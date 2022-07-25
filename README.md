@@ -1,7 +1,7 @@
 ## WELCOME DEVELOPERS 🙏
 
 ᕼEᒪᒪO, I AM AN ASPIRING FUll Stack TEᑕᕼIE ᗷASEᗪ ON INDIA<br>
-Starting by questioning the capabilities of Java. Began my journey as an Android Application Developer.
+Began My Journey As An Android Application Developer.
 
 - MOBILE TEᑕᕼ ENTᕼᑌSIᗩST
 - ᒪEARNING AND SᕼARING <br>
