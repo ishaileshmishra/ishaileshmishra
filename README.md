@@ -11,7 +11,7 @@ Began My Journey As An Android Application Developer.
 
 #### READ AᖇTIᑕᒪE ON [MEDIUM](https://ishaileshmishra.medium.com)<br/>
 
-#### [YOUTUBE](https://www.youtube.com/channel/UCifJ2nId3EIvRhLaNH2oqIg)<br/>
+#### [YOUTUBE](https://www.youtube.com/@ishaileshmishra)<br/>
 
 ## Tools & Technologies
 
