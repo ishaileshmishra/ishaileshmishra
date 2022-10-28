@@ -5,7 +5,7 @@ Began My Journey As An Android Application Developer.
 
 - MOBILE TEᑕᕼ ENTᕼᑌSIᗩST
 - ᒪEARNING AND SᕼARING <br>
-- ᗯOᖇKING Oᑎ ᒍAᐯA, KOTLIN, ᗩNᗪᖇOIᗪ, SᑭᖇIᑎG-ᗷOOT, ᖴᒪUTTEᖇ, ᗪAᖇT, PYTᕼOᑎ (ᗪᒍANGO & ᖴᒪASK), and NODE.ᒍS
+- ᗯOᖇKING Oᑎ ᒍAᐯA, KOTLIN, ᗩNᗪᖇOIᗪ, ᖴᒪUTTEᖇ, ᗪAᖇT, PYTᕼOᑎ (ᗪᒍANGO & ᖴᒪASK), and NODE.ᒍS
 - INTEᖇESTED IN AI, MACHINE
 - THE VISITORS ![ℕ𝕌𝕄𝔹𝔼ℝ 𝕆𝔽 𝕍𝕀𝕊𝕀𝕋𝕆ℝ𝕊](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)<br/>
 
