@@ -1,7 +1,7 @@
 ## सुस्वागतम
 
 ᕼEᒪᒪO, I AM AN ASPIRING FUll Stack TEᑕᕼIE ᗷASEᗪ ON INDIA<br>
-Began My Journey As An Android Application Developer.
+Began My Journey As a Mobile Apps Developer.
 
 - MOBILE TEᑕᕼ ENTᕼᑌSIᗩST
 - ᒪEARNING AND SᕼARING <br>
