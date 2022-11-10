@@ -1,15 +1,14 @@
 ## सुस्वागतम
 
-ᕼEᒪᒪO, I AM AN ASPIRING FUll Stack TEᑕᕼIE ᗷASEᗪ ON INDIA<br>
-Began My Journey As a Mobile Apps Developer.
+ᕼEᒪᒪO, I am an aspiring full stack techie based on India. Began coding journey as a mobile apps developer<br>
 
-- MOBILE TEᑕᕼ ENTᕼᑌSIᗩST
-- ᒪEARNING AND SᕼARING <br>
-- ᗯOᖇKING Oᑎ ᒍAᐯA, KOTLIN, ᗩNᗪᖇOIᗪ, ᖴᒪUTTEᖇ, ᗪAᖇT, PYTᕼOᑎ (ᗪᒍANGO & ᖴᒪASK), and NODE.ᒍS
-- INTEᖇESTED IN AI, MACHINE
-- THE VISITORS ![ℕ𝕌𝕄𝔹𝔼ℝ 𝕆𝔽 𝕍𝕀𝕊𝕀𝕋𝕆ℝ𝕊](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)<br/>
+- Mobile Tech Enthusiast
+- Learning and sharing<br>
+- Working on Java, Kotlin, Android, Flutter, Dart, Python (DJango & Flask), and node.js
+- Interested in AI & Machine
+- The Visitors ![ℕ𝕌𝕄𝔹𝔼ℝ 𝕆𝔽 𝕍𝕀𝕊𝕀𝕋𝕆ℝ𝕊](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)<br/>
 
-#### READ AᖇTIᑕᒪE ON [MEDIUM](https://ishaileshmishra.medium.com)<br/>
+#### Read Article On [MEDIUM](https://ishaileshmishra.medium.com)<br/>
 
 #### [YOUTUBE](https://www.youtube.com/@ishaileshmishra)<br/>
 
@@ -28,7 +27,7 @@ Began My Journey As a Mobile Apps Developer.
 
 
 
-## WORK STᗩTISTIᑕS
+## Work Statitics
 
 <a href="https://github.com/ishaileshmishra">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=gruvbox&line_height=28&count_private=true" alt="ishaileshmishra's github stats" height="220px" />
@@ -56,15 +55,15 @@ Began My Journey As a Mobile Apps Developer.
 </a>
 <br>
 
-## ᑕOᑎTᗩᑕT ᗰE
+## Contact Me
 
 [<img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'>](https://github.com/ishaileshmishra) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ishaileshmishra) [<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ishaileshmishra/) [<img src='https://img.icons8.com/color/2x/twitter.png' alt='twitter' height='40'>](https://twitter.com/ishaileshmishr) [<img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/ishaileshmishra) [<img src='https://img.icons8.com/color/2x/youtube-play.png' alt='youtube' height='40'>](https://www.youtube.com/@ishaileshmishra) [<img src='https://img.icons8.com/color/2x/medium-logo.png' alt='Medium' height='40'>](https://medium.com/@ishaileshmishra)</br>
-📧 ISᕼᗩIᒪESᕼᗰISᕼᖇᗩ@GᗰᗩIᒪ.ᑕOᗰ</br>
+📧 ishaileshmishra@gmail.com</br>
 📓 [Medium](https://ishaileshmishra.medium.com/)
 
-💻 ᗩᑕTIᐯE ᒪEᗩᖇᑎIᑎG</br>
-🤝 TEᗩᗰᗯOᖇK</br>
-👨‍ ᑭᖇOᗷᒪEᗰ SOᒪᐯIᑎG</br>
+💻 ᗩctive Learning</br>
+🤝 Teamwork</br>
+👨‍ ᑭroblem Solving</br>
 
 <br><br>
 <div align="center">
