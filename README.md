@@ -7,8 +7,7 @@
 - Working on Java, Kotlin, Android, Flutter, Dart, Python (DJango & Flask), and Node.js
 - Interested in AI & Machine
 - The Visitors ![ℕ𝕌𝕄𝔹𝔼ℝ 𝕆𝔽 𝕍𝕀𝕊𝕀𝕋𝕆ℝ𝕊](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)<br/>
-- Read Article On [MEDIUM](https://ishaileshmishra.medium.com)<br/>
-- Follow, Connect and Subscribe: [Twitter](https://www.twitter.com/ishaileshmisra) [LinkedIn](https://www.linkedin.com/in/ishaileshmishra) [Youtube](https://www.youtube.com/@ishaileshmishra) [Facebook](https://www.facebook.com/ishaileshmisra)
+- Follow, Connect and Subscribe: [Twitter](https://www.twitter.com/ishaileshmisra) [Medium](https://ishaileshmishra.medium.com) [LinkedIn](https://www.linkedin.com/in/ishaileshmishra) [Youtube](https://www.youtube.com/@ishaileshmishra) [Facebook](https://www.facebook.com/ishaileshmisra)
 
 ## Tools & Technologies
 
