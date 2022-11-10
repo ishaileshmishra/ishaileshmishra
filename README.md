@@ -1,6 +1,6 @@
 ## सुस्वागतम
 
-ᕼEᒪᒪO, I am an aspiring full stack techie based on India. Began coding journey as a mobile apps developer<br>
+ᕼEᒪᒪO, I am an aspiring fullstack techie based on India. Began coding journey as a mobile apps developer<br>
 
 - Mobile Tech Enthusiast
 - Learning and sharing
