@@ -3,14 +3,12 @@
 ᕼEᒪᒪO, I am an aspiring full stack techie based on India. Began coding journey as a mobile apps developer<br>
 
 - Mobile Tech Enthusiast
-- Learning and sharing<br>
-- Working on Java, Kotlin, Android, Flutter, Dart, Python (DJango & Flask), and node.js
+- Learning and sharing
+- Working on Java, Kotlin, Android, Flutter, Dart, Python (DJango & Flask), and Node.js
 - Interested in AI & Machine
 - The Visitors ![ℕ𝕌𝕄𝔹𝔼ℝ 𝕆𝔽 𝕍𝕀𝕊𝕀𝕋𝕆ℝ𝕊](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)<br/>
-
-#### Read Article On [MEDIUM](https://ishaileshmishra.medium.com)<br/>
-
-#### [YOUTUBE](https://www.youtube.com/@ishaileshmishra)<br/>
+- Read Article On [MEDIUM](https://ishaileshmishra.medium.com)<br/>
+- Follow, Connect and Subscribe: [Twitter](https://www.twitter.com/ishaileshmisra) [LinkedIn](https://www.linkedin.com/in/ishaileshmishra) [Youtube](https://www.youtube.com/@ishaileshmishra) [Facebook](https://www.facebook.com/ishaileshmisra)
 
 ## Tools & Technologies
 
@@ -58,9 +56,9 @@
 ## Contact Me
 
 [<img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'>](https://github.com/ishaileshmishra) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ishaileshmishra) [<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ishaileshmishra/) [<img src='https://img.icons8.com/color/2x/twitter.png' alt='twitter' height='40'>](https://twitter.com/ishaileshmishr) [<img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/ishaileshmishra) [<img src='https://img.icons8.com/color/2x/youtube-play.png' alt='youtube' height='40'>](https://www.youtube.com/@ishaileshmishra) [<img src='https://img.icons8.com/color/2x/medium-logo.png' alt='Medium' height='40'>](https://medium.com/@ishaileshmishra)</br>
+
 📧 ishaileshmishra@gmail.com</br>
 📓 [Medium](https://ishaileshmishra.medium.com/)
-
 💻 ᗩctive Learning</br>
 🤝 Teamwork</br>
 👨‍ ᑭroblem Solving</br>
