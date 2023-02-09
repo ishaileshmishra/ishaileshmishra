@@ -6,7 +6,7 @@
 - Learning and sharing
 - Working on Java, Kotlin, Android, Flutter, Dart, Python (DJango & Flask), and Node.js
 - Interested in AI & Machine
-- The Visitors ![ℕ𝕌𝕄𝔹𝔼ℝ 𝕆𝔽 𝕍𝕀𝕊𝕀𝕋𝕆ℝ𝕊](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)<br/>
+- TOTAL VISITORS ![ℕ𝕌𝕄𝔹𝔼ℝ 𝕆𝔽 𝕍𝕀𝕊𝕀𝕋𝕆ℝ𝕊](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)<br/>
 
 ## Follow, Connect and Subscribe: 
 - [Twitter](https://www.twitter.com/shaileshmshra)
