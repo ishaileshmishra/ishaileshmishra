@@ -1,12 +1,12 @@
-## सुस्वागतम
+# सुस्वागतम
 
-ᕼEᒪᒪO, I am an aspiring fullstack techie based on India. Began coding journey as a mobile apps developer<br>
+An aspiring fullstack techie based on India. Began coding journey as a mobile apps developer
 
 - Mobile Tech Enthusiast
 - Learning and sharing
 - Working on Java, Kotlin, Android, Flutter, Dart, Python (DJango & Flask), and Node.js
 - Interested in AI & Machine
-- TOTAL VISITORS ![ℕ𝕌𝕄𝔹𝔼ℝ 𝕆𝔽 𝕍𝕀𝕊𝕀𝕋𝕆ℝ𝕊](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)<br/>
+- TOTAL VISITORS ![ℕ𝕌𝕄𝔹𝔼ℝ 𝕆𝔽 𝕍𝕀𝕊𝕀𝕋𝕆ℝ𝕊](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)
 
 ## Follow, Connect and Subscribe: 
 - [Twitter](https://www.twitter.com/shaileshmshra)
