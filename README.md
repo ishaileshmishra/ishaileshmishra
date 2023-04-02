@@ -39,7 +39,7 @@ For support, email mshaileshr@gmail.com or follow on [Medium](https://medium.com
 [<img src='https://miro.medium.com/max/640/1*XzIRJGujfqAiOV2EIQgR_Q.png' alt='flask' height='40'>](https://github.com/ishaileshmishra) 
 [<img src='https://www.pngkit.com/png/detail/70-702065_django-python-logo-apress-the-definitive-guide-to.png' alt='flask' height='40'>]
 
-
+<!-- 
 ## Certifications:
 
 <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50025076' alt='github' height='100'>   <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/50025076' alt='github' height='100'> 
@@ -55,7 +55,6 @@ For support, email mshaileshr@gmail.com or follow on [Medium](https://medium.com
 <a href="https://github.com/ishaileshmishra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&show_icons=true&theme=gruvbox&hide_langs_below=1&line_height=28" height="220px"/>
 </a>
-
 <br>
 <a href="https://github.com/ishaileshmishra/flutter-ecommerce-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter-ecommerce-app&show_icons=true&theme=gruvbox&count_private=true" />
@@ -65,13 +64,11 @@ For support, email mshaileshr@gmail.com or follow on [Medium](https://medium.com
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter-feed-app&show_icons=true&theme=gruvbox" />
 </a>
 <br>
-
 <a href="https://github.com/ishaileshmishra/furniture_onboarding_flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=furniture_onboarding_flutter&show_icons=true&theme=gruvbox" />
 </a>
-
 <a href="https://github.com/ishaileshmishra/flutter_shopping_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter_shopping_app&show_icons=true&theme=gruvbox&count_private=true" />
 </a>
-<br>
+<br> -->
 
