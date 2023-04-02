@@ -19,6 +19,9 @@
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/shaileshmshra)
 
+## Support
+
+For support, email mshaileshr@gmail.com or follow on [Medium](https://medium.com/@ishaileshmishra) channel.
 
 ## Tools & Technologies
 
