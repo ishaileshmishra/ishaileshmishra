@@ -1,4 +1,4 @@
-# welcome Geeks
+# WELCOME GEEKS
 
 An aspiring fullstack techie based on India. Began coding journey as a mobile apps developer
 
