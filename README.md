@@ -1,22 +1,22 @@
 
 # WELCOME GEEKS
-
 ## 🚀 About Me
-##### An Aspiring Software Techie Based On India.
-##### Mobile Tech Enthusiast
-##### Working on Java, Kotlin, Android, Flutter, Dart, Python (DJango & Flask), and Node.js
-##### Interested in AI & Machine
-##### Learning and sharing
+#### An Aspiring Software Techie Based On India.
+#### Mobile Tech Enthusiast
+#### Working on Java, Kotlin, Android, Flutter, Dart, Python (DJango & Flask), and Node.js
+#### Interested in AI & Machine
+#### Learning and sharing
 # ![Total Visitors](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)
 
 
 ## Follow connect and subscribe
 
-@ [Twitter](https://www.twitter.com/shaileshmshra) @ [Medium](https://ishaileshmishra.medium.com) @ [LinkedIn](https://www.linkedin.com/in/ishaileshmishra) @ [Youtube](https://www.youtube.com/@ishaileshmishra) @ [Facebook](https://www.facebook.com/ishaileshmisra)
+@ [Medium](https://ishaileshmishra.medium.com) @ [Youtube](https://www.youtube.com/@ishaileshmishra)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaileshmishra) 
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/shaileshmshra)
+
 
 ## Support
 
@@ -36,7 +36,6 @@ For support, email mshaileshr@gmail.com or follow on [Medium](https://medium.com
 [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/git.png' alt='git' height='40'>](https://github.com/ishaileshmishra) 
 [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/github.png' alt='github' height='40'>](https://github.com/ishaileshmishra) 
 [<img src='https://miro.medium.com/max/640/1*XzIRJGujfqAiOV2EIQgR_Q.png' alt='flask' height='40'>](https://github.com/ishaileshmishra) 
-[<img src='https://www.pngkit.com/png/detail/70-702065_django-python-logo-apress-the-definitive-guide-to.png' alt='flask' height='40'>]
 
 <!-- 
 ## Certifications:
