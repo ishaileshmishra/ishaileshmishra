@@ -1,8 +1,7 @@
 
 # WELCOME GEEKS
 ## 🚀 About Me
-#### An Aspiring Software Techie Based On India.
-#### Mobile Tech Enthusiast
+#### An Aspiring Mobile Tech Enthusiast Software Techie 
 #### Working on Java, Kotlin, Android, Flutter, Dart, Python (DJango & Flask), and Node.js
 #### Interested in AI & Machine
 #### Learning and sharing
