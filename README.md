@@ -36,36 +36,34 @@ For support, email mshaileshr@gmail.com or follow on [Medium](https://medium.com
 [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/github.png' alt='github' height='40'>](https://github.com/ishaileshmishra) 
 [<img src='https://miro.medium.com/max/640/1*XzIRJGujfqAiOV2EIQgR_Q.png' alt='flask' height='40'>](https://github.com/ishaileshmishra) 
 
-<!-- 
-## Certifications:
 
-<img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50025076' alt='github' height='100'>   <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/50025076' alt='github' height='100'> 
-<img src='https://udemy-certificate.s3.amazonaws.com/image/UC-c588ec1c-2572-46dc-8518-db2382c11ed6.jpg?v=1645622916000' alt='github' height='100'>
-<img src='https://udemy-certificate.s3.amazonaws.com/image/UC-c57290dd-4cb2-413a-9065-ac454c923124.jpg?v=1629188610000' alt='github' height='100'>
+## Overview:
+I am an enthusiastic software techie with a keen interest in mobile technologies. My passion lies in developing mobile applications and exploring various programming languages and frameworks. I am proficient in Java, Kotlin, Android, Flutter, Dart, Python (Django & Flask), and Node.js. I am also fascinated by the fields of AI and Machine Learning and actively engage in learning and sharing my knowledge in these areas.
 
+## Skills:
+- Programming Languages: Java, Kotlin, Dart, Python
+- Mobile Development: Android, Flutter
+- Web Development: Django, Flask, Node.js
+- AI & Machine Learning: Exploring concepts and applications
 
-## Work Statitics
+## Projects:
+- Android Applications: Developed various Android applications using Java and Kotlin. These applications showcase my proficiency in building intuitive user interfaces and integrating functionalities like data persistence, network requests, and third-party API integration.
+- Flutter Projects: Created cross-platform mobile applications using Flutter and Dart. These projects demonstrate my ability to build responsive and visually appealing user interfaces and handle state management efficiently.
+- Web Applications: Developed web applications using Django and Flask frameworks in Python. These projects showcase my skills in building dynamic web interfaces and working with databases for data storage and retrieval.
+- AI & Machine Learning: Explored various AI and ML concepts and implemented projects to demonstrate my understanding. These include tasks like image classification, natural language processing, and predictive analytics.
 
-<a href="https://github.com/ishaileshmishra">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=gruvbox&line_height=28&count_private=true" alt="ishaileshmishra's github stats" height="220px" />
-</a>
-<a href="https://github.com/ishaileshmishra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&show_icons=true&theme=gruvbox&hide_langs_below=1&line_height=28" height="220px"/>
-</a>
-<br>
-<a href="https://github.com/ishaileshmishra/flutter-ecommerce-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter-ecommerce-app&show_icons=true&theme=gruvbox&count_private=true" />
-</a>
-</a>
-<a href="https://github.com/ishaileshmishra/flutter-feed-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter-feed-app&show_icons=true&theme=gruvbox" />
-</a>
-<br>
-<a href="https://github.com/ishaileshmishra/furniture_onboarding_flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=furniture_onboarding_flutter&show_icons=true&theme=gruvbox" />
-</a>
-<a href="https://github.com/ishaileshmishra/flutter_shopping_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishaileshmishra&repo=flutter_shopping_app&show_icons=true&theme=gruvbox&count_private=true" />
-</a>
-<br> -->
+## Contributions and Collaborations:
+- Actively involved in the open-source community by contributing to GitHub repositories and participating in discussions.
+- Collaborated with fellow developers on projects, providing code reviews and suggesting improvements.
+- Organized and participated in coding workshops and hackathons to foster learning and sharing among developers.
+
+## Learning and Growth:
+- Continuously expanding my knowledge in mobile technologies and staying up-to-date with the latest industry trends.
+- Actively pursuing online courses and tutorials to enhance my skills in AI and Machine Learning.
+- Regularly sharing my learnings and insights through blog posts and technical articles on platforms like Medium.
+
+## Contact Information:
+Feel free to reach out to me via email or connect with me on LinkedIn. I am open to collaborations, discussions, and opportunities related to mobile app development, AI, and machine learning.
+
+[Email](mshaileshr@gmail.com)   [LinkedIn](https://www.linkedin.com/in/ishaileshmishra)   [GitHub](https://www.github.com/ishaileshmishra/)
 
