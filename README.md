@@ -1,10 +1,14 @@
 
 # WELCOME GEEKS
 ## 🚀 [About Me](https://shaileshmishra.carrd.co)
-#### An Aspiring Mobile Tech Enthusiast Software Techie 
-#### Working on Java, Kotlin, Android, Flutter, Dart, Python (DJango & Flask), and Node.js
-#### Interested in AI & Machine
-#### Learning and sharing
+
+My journey in software development started with Java and Android, where I honed my skills in building robust and user-friendly mobile applications. I have successfully developed and deployed several Android applications, showcasing my ability to create intuitive user interfaces and seamlessly integrate various features like data persistence and network interactions.
+
+
+##### An Aspiring Mobile Tech Enthusiast Software Techie 
+##### Working on Java, Kotlin, Android, Flutter, Dart, Python (DJango & Flask), and Node.js
+##### Interested in AI & Machine
+##### Learning and sharing
 # ![Total Visitors](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)
 
 
