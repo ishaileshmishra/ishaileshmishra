@@ -1,6 +1,6 @@
 
 # Welcome, Fellow Geeks! 🚀
-## Learn More About Me
+## About Me
 
 My journey in software development embarked with Java and Android, where I honed my skills in crafting robust and user-friendly mobile applications. I've effectively created and deployed multiple Android applications, demonstrating my knack for developing intuitive user interfaces and seamlessly integrating a medley of features, from data persistence to network interactions.
 
