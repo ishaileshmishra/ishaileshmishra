@@ -15,14 +15,10 @@ My journey in software development embarked with Java and Android, where I honed
 
 - [Medium](https://ishaileshmishra.medium.com)
 - [YouTube](https://www.youtube.com/@ishaileshmishra)
+- [LinkedIn](www.linkedin.com/in/ishaileshmishra)
+- [Twitter](https://www.twitter.com/shaileshmshra)
+- [Medium](https://medium.com/@ishaileshmishra)
 
-Connect with me:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaileshmishra)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/shaileshmshra)
-
-## Need Assistance?
-
-For support, drop an email at mshaileshr@gmail.com or follow my [Medium](https://medium.com/@ishaileshmishra) channel.
 
 ## Tools & Technologies I Embrace
 
