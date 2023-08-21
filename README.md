@@ -59,8 +59,3 @@ I am an enthusiastic software techie with a profound fascination for mobile tech
 - Commitment to expanding my knowledge in mobile technologies, remaining abreast of the latest industry trends.
 - Engaging in continuous learning through online courses and tutorials to enhance my proficiency in AI and Machine Learning.
 - Consistently sharing my insights and newfound knowledge through blog posts and technical articles on platforms such as Medium.
-
-## Get in Touch:
-Feel free to reach out via email or connect with me on LinkedIn. I'm open to collaborations, discussions, and opportunities related to mobile app development, AI, and machine learning.
-
-[Email](mshaileshr@gmail.com)   [LinkedIn](https://www.linkedin.com/in/ishaileshmishra)   [GitHub](https://www.github.com/ishaileshmishra/)
