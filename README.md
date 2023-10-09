@@ -2,7 +2,8 @@
 # Welcome, Fellow Geeks! 🚀
 ## About Me
 
-My journey in software development embarked with Java and Android, where I honed my skills in crafting robust and user-friendly mobile applications. I've effectively created and deployed multiple Android applications, demonstrating my knack for developing intuitive user interfaces and seamlessly integrating a medley of features, from data persistence to network interactions.
+As I started my journey in software development with **Java and Android**, I improved my skills in creating strong and user-friendly **mobile apps**. <br />I've successfully built and launched multiple Android apps, showcasing my ability to create user-friendly interfaces and smoothly integrate various features, including data storage and network communication.
+
 
 #### An Avid Mobile Tech Enthusiast and Software Techie
 #### Proficient in Java, Kotlin, Android, Flutter, Dart, Python (DJango & Flask), and Node.js
@@ -35,11 +36,8 @@ My journey in software development embarked with Java and Android, where I honed
 [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/github.png' alt='GitHub' height='40'>](https://github.com/ishaileshmishra) 
 [<img src='https://miro.medium.com/max/640/1*XzIRJGujfqAiOV2EIQgR_Q.png' alt='Flask' height='40'>](https://github.com/ishaileshmishra) 
 
-## Overview:
-I am an enthusiastic software techie with a profound fascination for mobile technologies. My passion resides in crafting mobile applications and exploring an array of programming languages and frameworks. Proficiency in Java, Kotlin, Android, Flutter, Dart, Python (Django & Flask), and Node.js defines me. My intrigue also extends to the realms of AI and Machine Learning, and I actively partake in the pursuit of knowledge in these domains.
-
 ## Skills:
-- Programming Languages: Java, Kotlin, Dart, Python
+- Programming Languages: Java, Kotlin, Android, Flutter, Dart, Python (Django & Flask), and Node.js
 - Mobile Development: Android, Flutter
 - Web Development: Django, Flask, Node.js
 - AI & Machine Learning: Exploring Concepts and Applications
@@ -59,3 +57,14 @@ I am an enthusiastic software techie with a profound fascination for mobile tech
 - Commitment to expanding my knowledge in mobile technologies, remaining abreast of the latest industry trends.
 - Engaging in continuous learning through online courses and tutorials to enhance my proficiency in AI and Machine Learning.
 - Consistently sharing my insights and newfound knowledge through blog posts and technical articles on platforms such as Medium.
+
+## 📈 GitHub Stats
+
+<a href="https://github.com/ishaileshmishra/ishaileshmishra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&hide=html,gdscript,roff,latte,qml,asp,swift,objective-c,kotlin,shell,java,css,scss,javascript,c,c%2B%2B,c%23,batchfile,cmake,ruby&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/ishaileshmishra/ishaileshmishra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=radical&line_height=27&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="talhakerpicci's github stats" />
+</a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaileshmishra&theme=dark" alt="ishaileshmishra" /></p>
