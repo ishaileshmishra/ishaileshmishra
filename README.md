@@ -1,24 +1,23 @@
 
-# Welcome, Fellow Geeks! 🚀
-## About Me
+# Welcome 🚀
 
-As I started my journey in software development with **Java and Android**, I improved my skills in creating strong and user-friendly **mobile apps**. <br />I've successfully built and launched multiple Android apps, showcasing my ability to create user-friendly interfaces and smoothly integrate various features, including data storage and network communication.
+## 📈 GitHub Stats
+
+<a href="https://github.com/ishaileshmishra/ishaileshmishra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&hide=html,gdscript,roff,latte,qml,asp,swift,objective-c,kotlin,shell,java,css,scss,javascript,c,c%2B%2B,c%23,batchfile,cmake,ruby&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/ishaileshmishra/ishaileshmishra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=radical&line_height=27&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="talhakerpicci's github stats" />
+</a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaileshmishra&theme=dark" alt="ishaileshmishra" /></p>
 
 
-#### An Avid Mobile Tech Enthusiast and Software Techie
-#### Proficient in Java, Kotlin, Android, Flutter, Dart, Python (DJango & Flask), and Node.js
-#### Avid Interest in AI & Machine Learning
-#### Dedicated to Learning and Sharing Knowledge
+# About Me
+
+As an ardent mobile tech enthusiast and software professional, I am proficient in Java, Kotlin, Android, Flutter, Dart, Python (Django & Flask), and Node.js. I also hold a keen interest in AI and Machine Learning, and I'm dedicated to continual learning and knowledge sharing.
 
 [![Total Visitors](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)](https://github.com/ishaileshmishra)
-
-## Stay Connected, Follow, and Subscribe
-
-- [Medium](https://ishaileshmishra.medium.com)
-- [YouTube](https://www.youtube.com/@ishaileshmishra)
-- [LinkedIn](www.linkedin.com/in/ishaileshmishra)
-- [Twitter](https://www.twitter.com/shaileshmshra)
-- [Medium](https://medium.com/@ishaileshmishra)
 
 
 ## Tools & Technologies I Embrace
@@ -48,23 +47,10 @@ As I started my journey in software development with **Java and Android**, I imp
 - Web Applications: Pioneered web applications through Django and Flask frameworks in Python, underscoring my expertise in crafting dynamic web interfaces and proficiently managing databases for data storage and retrieval.
 - AI & Machine Learning: Ventured into diverse AI and ML concepts, translating my understanding into tangible projects encompassing tasks like image classification, natural language processing, and predictive analytics.
 
-## Contributions and Collaborations:
-- Actively engaged in the open-source community through contributions to GitHub repositories and active participation in discussions.
-- Collaborated closely with fellow developers on projects, contributing code reviews and offering insightful suggestions for improvement.
-- Orchestrated and participated in coding workshops and hackathons, fostering an environment of learning and shared growth among developers.
+## Stay Connected
 
-## Learning and Growth:
-- Commitment to expanding my knowledge in mobile technologies, remaining abreast of the latest industry trends.
-- Engaging in continuous learning through online courses and tutorials to enhance my proficiency in AI and Machine Learning.
-- Consistently sharing my insights and newfound knowledge through blog posts and technical articles on platforms such as Medium.
-
-## 📈 GitHub Stats
-
-<a href="https://github.com/ishaileshmishra/ishaileshmishra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&hide=html,gdscript,roff,latte,qml,asp,swift,objective-c,kotlin,shell,java,css,scss,javascript,c,c%2B%2B,c%23,batchfile,cmake,ruby&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/ishaileshmishra/ishaileshmishra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=radical&line_height=27&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="talhakerpicci's github stats" />
-</a>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaileshmishra&theme=dark" alt="ishaileshmishra" /></p>
+- [Medium](https://ishaileshmishra.medium.com)
+- [YouTube](https://www.youtube.com/@ishaileshmishra)
+- [LinkedIn](www.linkedin.com/in/ishaileshmishra)
+- [Twitter](https://www.twitter.com/shaileshmshra)
+- [Medium](https://medium.com/@ishaileshmishra)
