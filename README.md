@@ -6,8 +6,9 @@
 <a href="https://github.com/ishaileshmishra/ishaileshmishra">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=radical&line_height=27&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="talhakerpicci's github stats" />
 </a>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaileshmishra&theme=dark" alt="ishaileshmishra" /></p>
+<a href="https://github.com/ishaileshmishra/ishaileshmishra">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaileshmishra&theme=dark" alt="talhakerpicci's github stats" />
+</a>
 
 
 # About Me
