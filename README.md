@@ -1,6 +1,3 @@
-
-# Welcome 🚀
-
 ## 📈 GitHub Stats
 
 <a href="https://github.com/ishaileshmishra/ishaileshmishra">
