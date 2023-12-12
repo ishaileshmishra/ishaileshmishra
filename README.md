@@ -1,4 +1,4 @@
-[<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/banner.gif'>](Banner)
+[<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/banner.gif'>](https://github.com/ishaileshmishra)
 
 <a href="https://github.com/ishaileshmishra/ishaileshmishra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&hide=html,gdscript,roff,latte,qml,asp,swift,objective-c,kotlin,shell,java,css,scss,javascript,c,c%2B%2B,c%23,batchfile,cmake,ruby&theme=dark&hide_langs_below=1" />
