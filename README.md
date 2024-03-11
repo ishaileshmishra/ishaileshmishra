@@ -12,7 +12,7 @@
 
 # About Me
 
-As an ardent mobile tech enthusiast and software professional, I am proficient in Java, Kotlin, Android, Flutter, Dart, Python (Django & Flask), and Node.js. I also hold a keen interest in AI and Machine Learning, and I'm dedicated to continual learning and knowledge sharing.
+I'm a big fan of mobile technology and software. I am proficient to use Java, Kotlin, Android, Flutter, Dart, Python (Django & Flask), and Node.js. I'm also interested in mobile and backend development, and I'm always eager to learn and share my knowledge.
 
 [![Total Visitors](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)](https://github.com/ishaileshmishra)
 
