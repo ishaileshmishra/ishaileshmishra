@@ -66,17 +66,17 @@ Check out my [portfolio](https://shaileshmishra.dev/portfolio/) or read my [blog
 
 ## Skills:
 
-- Programming Languages: Java, Kotlin, Android, Flutter, Dart, Python (Django & Flask), and Node.js
-- Mobile Development: Android, Flutter
-- Web Development: Django, Flask, Node.js
-- AI & Machine Learning: Exploring Concepts and Applications
+- [Programming Languages](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fishaileshmishra): Java, Kotlin, Android, Flutter, Dart, Python (Django & Flask), and Node.js
+- [Mobile Development](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fishaileshmishra): Android, Flutter
+- [Web Development](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fishaileshmishra): Django, Flask, Node.js
+- [AI & Machine Learning](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fishaileshmishra): Exploring Concepts and Applications
 
 ## Projects:
 
-- Android Applications: Meticulously developed Android applications using Java and Kotlin, each showcasing my prowess in constructing intuitive user interfaces and seamlessly integrating functionalities such as data persistence, network requests, and third-party API integration.
-- Flutter Projects: Orchestrated cross-platform mobile applications utilizing Flutter and Dart, each standing as a testament to my aptitude in constructing responsive and visually captivating user interfaces while efficiently handling state management.
-- Web Applications: Pioneered web applications through Django and Flask frameworks in Python, underscoring my expertise in crafting dynamic web interfaces and proficiently managing databases for data storage and retrieval.
-- AI & Machine Learning: Ventured into diverse AI and ML concepts, translating my understanding into tangible projects encompassing tasks like image classification, natural language processing, and predictive analytics.
+- [Android Applications](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fishaileshmishra): Meticulously developed Android applications using Java and Kotlin, each showcasing my prowess in constructing intuitive user interfaces and seamlessly integrating functionalities such as data persistence, network requests, and third-party API integration.
+- [Flutter Projects](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fishaileshmishra): Orchestrated cross-platform mobile applications utilizing Flutter and Dart, each standing as a testament to my aptitude in constructing responsive and visually captivating user interfaces while efficiently handling state management.
+- [Web Applications](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fishaileshmishra): Pioneered web applications through Django and Flask frameworks in Python, underscoring my expertise in crafting dynamic web interfaces and proficiently managing databases for data storage and retrieval.
+- [AI & Machine Learning](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fishaileshmishra): Ventured into diverse AI and ML concepts, translating my understanding into tangible projects encompassing tasks like image classification, natural language processing, and predictive analytics.
 
 ## Stay Connected
 
