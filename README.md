@@ -1,5 +1,8 @@
 [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/banner.gif'>](https://github.com/ishaileshmishra)
 
+## Hi there 👋 I'm Shailesh
+
+<!--
 <a href="https://github.com/ishaileshmishra/ishaileshmishra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&hide=html,gdscript,roff,latte,qml,asp,swift,objective-c,kotlin,shell,java,css,scss,javascript,c,c%2B%2B,c%23,batchfile,cmake,ruby&theme=dark&hide_langs_below=1" />
 </a>
@@ -9,16 +12,26 @@
 <a href="https://github.com/ishaileshmishra/ishaileshmishra">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaileshmishra&theme=dark" alt="talhakerpicci's github stats" />
 </a>
-
+-->
 # About Me
 
 I'm a big fan of mobile technology and software. I am proficient to use Java, Kotlin, Android, Flutter, Dart, Python (Django & Flask), and Node.js. I'm also interested in mobile and backend development, and I'm always eager to learn and share my knowledge.
 
 Check out my [portfolio](https://shaileshmishra.dev/portfolio/) or read my [blog](https://medium.com/@ishaileshmishra) and [Follow me on Twitter](https://twitter.com/ishaileshmisra) and [Follow me on LinkedIn](https://www.linkedin.com/in/ishaileshmishra/)
 
+<br>
 
+<a href="https://github.com/ishaileshmishra/ishaileshmishra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&hide=html,gdscript,roff,latte,qml,asp,swift,objective-c,kotlin,shell,java,css,scss,javascript,c,c%2B%2B,c%23,batchfile,cmake,ruby&theme=dark&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/ishaileshmishra/ishaileshmishra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=radical&line_height=27&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="talhakerpicci's github stats" />
+</a>
 
 [![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=ishaileshmishra&theme=gruvbox_duo&hide_border=true)](https://ishaileshmishra.medium.com/)
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishaileshmishra/github-stats/master/generated/overview.svg#gh-dark-mode-only">
