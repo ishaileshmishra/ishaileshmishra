@@ -14,6 +14,26 @@
 
 I'm a big fan of mobile technology and software. I am proficient to use Java, Kotlin, Android, Flutter, Dart, Python (Django & Flask), and Node.js. I'm also interested in mobile and backend development, and I'm always eager to learn and share my knowledge.
 
+Check out my [portfolio](https://shaileshmishra.dev/portfolio/) or read my [blog](https://medium.com/@ishaileshmishra) and [Follow me on Twitter](https://twitter.com/ishaileshmisra) and [Follow me on LinkedIn](https://www.linkedin.com/in/ishaileshmishra/)
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=ishaileshmishra&theme=gruvbox_duo&hide_border=true)](https://ishaileshmishra.medium.com/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishaileshmishra/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishaileshmishra/github-stats/master/generated/overview.svg#gh-light-mode-only">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishaileshmishra/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishaileshmishra/github-stats/master/generated/languages.svg#gh-light-mode-only">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
+
+
 [![Total Visitors](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)](https://github.com/ishaileshmishra)
 
 ## Tools & Technologies I Embrace
