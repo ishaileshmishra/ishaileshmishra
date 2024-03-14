@@ -31,8 +31,6 @@ Check out my [portfolio](https://shaileshmishra.dev/portfolio/) or read my [blog
 
 [![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=ishaileshmishra&theme=gruvbox_duo&hide_border=true)](https://ishaileshmishra.medium.com/)
 
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishaileshmishra/github-stats/master/generated/overview.svg#gh-dark-mode-only">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishaileshmishra/github-stats/master/generated/overview.svg#gh-light-mode-only">
