@@ -22,7 +22,7 @@ Check out my [portfolio](https://shaileshmishra.dev/portfolio/) or read my [blog
 
 <br>
 
-Visit My [Repositories](https://github.com/ishaileshmishra?tab=repositories&q=&type=&language=&sort=stargazers)
+Checkout the [Repositories](https://github.com/ishaileshmishra?tab=repositories&q=&type=&language=&sort=stargazers)
 
 <br>
 
