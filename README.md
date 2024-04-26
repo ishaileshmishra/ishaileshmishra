@@ -15,7 +15,8 @@
 -->
 # About Me
 
-I'm a big fan of mobile technology and software. I am proficient to use Java, Kotlin, Android, Flutter, Dart, Python (Django & Flask), and Node.js. I'm also interested in mobile and backend development, and I'm always eager to learn and share my knowledge.
+I am deeply passionate about Backend development, Mobile technology, and Software Development. My skill set includes proficiency in Java, Node.js, Python, Kotlin, Android, Flutter, Dart.
+
 
 Check out my [portfolio](https://shaileshmishra.dev/portfolio/) or read my [blog](https://medium.com/@ishaileshmishra) and [Follow me on Twitter](https://twitter.com/ishaileshmisra) and [Follow me on LinkedIn](https://www.linkedin.com/in/ishaileshmishra/)
 
