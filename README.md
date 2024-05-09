@@ -17,8 +17,7 @@
 
 I am deeply passionate about Backend development, Mobile technology, and Software Development. My skill set includes proficiency in Java, Node.js, Python, Kotlin, Android, Flutter, Dart.
 
-
-Check out my [portfolio](https://shaileshmishra.dev/portfolio/) or read my [blog](https://medium.com/@ishaileshmishra) and [Follow me on Twitter](https://twitter.com/ishaileshmisra) and [Follow me on LinkedIn](https://www.linkedin.com/in/ishaileshmishra/)
+Feel free to explore my [portfolio](https://shaileshmishra.dev/portfolio/), read my [blog](https://medium.com/@ishaileshmishra), and connect with me on [Twitter](https://twitter.com/ishaileshmisra) and [LinkedIn](https://www.linkedin.com/in/ishaileshmishra/)
 
 <br>
 
