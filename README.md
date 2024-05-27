@@ -1,4 +1,4 @@
-[<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/banner.gif'>](https://github.com/ishaileshmishra)
+[<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/Shailesh%20Mishra.png'>](https://github.com/ishaileshmishra)
 
 ## Hi there 👋 I'm Shailesh
 
