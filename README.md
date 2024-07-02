@@ -1,5 +1,7 @@
 [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/Shailesh%20Mishra.png'>](https://github.com/ishaileshmishra)
 
+[<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/shailesh-mishra_64468120.png' alt='Java' width='1200'>](https://github.com/ishaileshmishra)
+
 
 I am deeply passionate about Backend development, Mobile technology, and Software Development. My skill set includes proficiency in Java, Node.js, Python, Kotlin, Android, Flutter, Dart.
 
