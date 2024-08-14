@@ -74,5 +74,5 @@ Checkout the [Repositories](https://github.com/ishaileshmishra?tab=repositories&
 - [Medium](https://ishaileshmishra.medium.com)
 - [YouTube](https://www.youtube.com/@ishaileshmishra)
 - [LinkedIn](www.linkedin.com/in/ishaileshmishra)
-- [Twitter](https://www.twitter.com/shaileshmshra)
+- [Twitter](https://www.twitter.com/shaileshmisra)
 - [Medium](https://medium.com/@ishaileshmishra)
