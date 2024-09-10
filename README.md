@@ -1,11 +1,11 @@
 [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/Shailesh%20Mishra.png'>](https://github.com/ishaileshmishra)
 
+
 <!-- [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/shailesh-mishra_64468120.png' alt='Java' width='1200'>](https://github.com/ishaileshmishra) -->
 
+🚀 I'm deeply passionate about Backend Development, Mobile Technology, and Software Development. With a strong foundation in Java, Node.js, Python, Kotlin, Android, Flutter, and Dart, I love building impactful applications that solve real-world problems.
 
-I am deeply passionate about Backend development, Mobile technology, and Software Development. My skill set includes proficiency in Java, Node.js, Python, Kotlin, Android, Flutter, Dart.
-
-Feel free to explore my [portfolio](https://shaileshmishra.dev/portfolio/), read my [blog](https://medium.com/@ishaileshmishra), and connect with me on [Twitter](https://twitter.com/ishaileshmisra) and [LinkedIn](https://www.linkedin.com/in/ishaileshmishra/)
+## ✍️ GitHub Achievements 
 
 <br>
 
@@ -40,34 +40,54 @@ Checkout the [Repositories](https://github.com/ishaileshmishra?tab=repositories&
 
 [![Total Visitors](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)](https://github.com/ishaileshmishra)
 
-## Tools & Technologies I Embrace
+## 🛠️ Tools & Technologies
 
-[<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/android.png' alt='Android' height='40'>](https://github.com/ishaileshmishra)
-[<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/flutter.png' alt='Flutter' height='40'>](https://github.com/ishaileshmishra)
-[<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/dart.png' alt='Dart' height='40'>](https://github.com/ishaileshmishra)
-[<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/java.png' alt='Java' height='40'>](https://github.com/ishaileshmishra)
-[<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/javascript.png' alt='JavaScript' height='40'>](https://github.com/ishaileshmishra)
-[<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/python.png' alt='Python' height='40'>](https://github.com/ishaileshmishra)
-[<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/nodejs.png' alt='Node.js' height='40'>](https://github.com/ishaileshmishra)
-[<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/mongodb.png' alt='MongoDB' height='40'>](https://github.com/ishaileshmishra)
-[<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/ios-logo.png' alt='iOS' height='40'>](https://github.com/ishaileshmishra)
-[<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/git.png' alt='Git' height='40'>](https://github.com/ishaileshmishra)
-[<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/github.png' alt='GitHub' height='40'>](https://github.com/ishaileshmishra)
-[<img src='https://miro.medium.com/max/640/1*XzIRJGujfqAiOV2EIQgR_Q.png' alt='Flask' height='40'>](https://github.com/ishaileshmishra)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) 
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![Canvas](https://img.shields.io/badge/Canvas-%2300C4CC.svg?style=for-the-badge&logo=canvas&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Nest.js](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![AI](https://img.shields.io/badge/AI-%2300B4D8.svg?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/machine%20learning-%234285F4.svg?style=for-the-badge&logo=machine-learning&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) 
 
-## Skills:
 
-- [Programming Languages](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fishaileshmishra): Java, Kotlin, Android, Flutter, Dart, Python (Django & Flask), and Node.js
-- [Mobile Development](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fishaileshmishra): Android, Flutter
-- [Web Development](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fishaileshmishra): Django, Flask, Node.js
-- [AI & Machine Learning](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fishaileshmishra): Exploring Concepts and Applications
 
-## Projects:
+🚀 Projects
 
-- [Android Applications](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fishaileshmishra): Meticulously developed Android applications using Java and Kotlin, each showcasing my prowess in constructing intuitive user interfaces and seamlessly integrating functionalities such as data persistence, network requests, and third-party API integration.
-- [Flutter Projects](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fishaileshmishra): Orchestrated cross-platform mobile applications utilizing Flutter and Dart, each standing as a testament to my aptitude in constructing responsive and visually captivating user interfaces while efficiently handling state management.
-- [Web Applications](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fishaileshmishra): Pioneered web applications through Django and Flask frameworks in Python, underscoring my expertise in crafting dynamic web interfaces and proficiently managing databases for data storage and retrieval.
-- [AI & Machine Learning](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fishaileshmishra): Ventured into diverse AI and ML concepts, translating my understanding into tangible projects encompassing tasks like image classification, natural language processing, and predictive analytics.
+## 📱 Android Applications
+Meticulously developed Android apps using Java and Kotlin, focusing on user-friendly interfaces and seamless integrations.
+
+View Projects
+## 🖥️ Flutter Projects
+Crafted cross-platform mobile apps with Flutter and Dart, focusing on visually captivating UIs and efficient state management.
+
+Explore Flutter Apps
+## 🌐 Web Applications
+Built dynamic web applications using Django and Flask with expertise in database management and backend optimization.
+
+See Web Projects
+## 🤖 AI & Machine Learning
+Worked on AI and ML projects including image classification, NLP, and predictive analytics using TensorFlow and PyTorch. Explore AI Projects
+
+
 
 ## Stay Connected
 
@@ -76,3 +96,6 @@ Checkout the [Repositories](https://github.com/ishaileshmishra?tab=repositories&
 - [LinkedIn](www.linkedin.com/in/ishaileshmishra)
 - [Twitter](https://www.twitter.com/shaileshmisra)
 - [Medium](https://medium.com/@ishaileshmishra)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
