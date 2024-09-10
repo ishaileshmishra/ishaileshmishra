@@ -1,4 +1,5 @@
-[<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/banner.png'>](https://github.com/ishaileshmishra)
+[<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/Shailesh%20Mishra.png'>](https://github.com/ishaileshmishra)
+
 
 
 <!-- [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/shailesh-mishra_64468120.png' alt='Java' width='1200'>](https://github.com/ishaileshmishra) -->
