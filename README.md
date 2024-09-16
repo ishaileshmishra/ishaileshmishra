@@ -1,4 +1,4 @@
-[<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/ishaileshmishra.png'>](https://github.com/ishaileshmishra)
+[<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/a15ac9448ce34e15e53ac0fb401d7a32949c15fe/icons/Brown%20and%20Gray%20Simple%20Personal%20LinkedIn%20Banner%20(1).png'>](https://github.com/ishaileshmishra)
 
 
 
