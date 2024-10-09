@@ -91,5 +91,19 @@ I am passionate about creating robust, user-focused solutions that drive meaning
 
 
 
+## 📚 My Articles
+
+Check out my articles on Medium where I share insights on various topics:
+
+- [The python flask problem (socket.error: [Errno 48] Address already in use)](https://medium.com/@ishaileshmishra/the-python-flask-problem-socket-error-errno-48-address-already-in-use-4d074847587e)
+- [Android Mid-level Interview questions](https://medium.com/p/aaf24a03e6b9)
+- [Mitigating HTML Injection in Java Code: How to Secure](https://medium.com/p/7d5e30e129c0)
+- [Creating an interface with optional methods implementation in Java image](https://medium.com/p/8458f1084ef0)
+- [View All Articles on My Medium Profile](https://ishaileshmishra.medium.com/)
+
+
+
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
