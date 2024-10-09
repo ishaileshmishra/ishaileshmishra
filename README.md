@@ -77,7 +77,7 @@ I am a software developer with over 10 years of experience specializing in backe
 
 In addition to backend development, I excel in mobile app development across **Android Native**, **iOS (SwiftUI)**, and **Flutter**. I am recognized as an expert in **Flutter**, having developed numerous cross-platform applications that received significant recognition on GitHub, with over **200+ favorites and forks**. My mobile projects focus on delivering high-quality user experiences while optimizing performance and responsiveness.
 
-### Key Skills and Technologies
+### Key Skills
 - **Backend**: Node.js (Express & NestJS), Spring Boot, Python (Flask & Django), RESTful APIs, MongoDB.
 - **Mobile**: Android Native (Java/Kotlin), iOS (SwiftUI), Flutter, custom UI components, Google Maps and social APIs.
 - **Development Practices**: Agile methodologies, Git for version control, performance optimization, and security protocols.
