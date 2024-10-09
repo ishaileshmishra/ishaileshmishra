@@ -71,23 +71,18 @@ Checkout the [Repositories](https://github.com/ishaileshmishra?tab=repositories&
 
 
 
-🚀 Projects
+### Professional Summary
 
-## 📱 Android Applications
-Meticulously developed Android apps using Java and Kotlin, focusing on user-friendly interfaces and seamless integrations.
+I am a software developer with over 10 years of experience specializing in backend and mobile development. My expertise includes building scalable APIs using **Node.js** (Express and NestJS), as well as integrating **artificial intelligence** solutions to enhance application functionalities. I have successfully transitioned monolithic applications to **microservices architectures**, ensuring efficient performance and resource management.
 
-View Projects
-## 🖥️ Flutter Projects
-Crafted cross-platform mobile apps with Flutter and Dart, focusing on visually captivating UIs and efficient state management.
+In addition to backend development, I excel in mobile app development across **Android Native**, **iOS (SwiftUI)**, and **Flutter**. I am recognized as an expert in **Flutter**, having developed numerous cross-platform applications that received significant recognition on GitHub, with over **200+ favorites and forks**. My mobile projects focus on delivering high-quality user experiences while optimizing performance and responsiveness.
 
-Explore Flutter Apps
-## 🌐 Web Applications
-Built dynamic web applications using Django and Flask with expertise in database management and backend optimization.
+### Key Skills and Technologies
+- **Backend**: Node.js (Express & NestJS), Spring Boot, Python (Flask & Django), RESTful APIs, MongoDB.
+- **Mobile**: Android Native (Java/Kotlin), iOS (SwiftUI), Flutter, custom UI components, Google Maps and social APIs.
+- **Development Practices**: Agile methodologies, Git for version control, performance optimization, and security protocols.
 
-See Web Projects
-## 🤖 AI & Machine Learning
-Worked on AI and ML projects including image classification, NLP, and predictive analytics using TensorFlow and PyTorch. Explore AI Projects
-
+I am passionate about creating robust, user-focused solutions that drive meaningful results. My full-stack approach ensures seamless integration between backend services and mobile applications, delivering comprehensive solutions that meet both technical and business needs.
 
 
 ## Stay Connected
