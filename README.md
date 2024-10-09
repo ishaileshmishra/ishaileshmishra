@@ -87,11 +87,9 @@ I am passionate about creating robust, user-focused solutions that drive meaning
 
 ## Stay Connected
 
-- [Medium](https://ishaileshmishra.medium.com)
-- [YouTube](https://www.youtube.com/@ishaileshmishra)
-- [LinkedIn](www.linkedin.com/in/ishaileshmishra)
-- [Twitter](https://www.twitter.com/shaileshmisra)
-- [Medium](https://medium.com/@ishaileshmishra)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ishaileshmishra/) [![Medium](https://img.icons8.com/color/48/000000/medium-logo.png)](https://ishaileshmishra.medium.com) [![YouTube](https://img.icons8.com/color/48/000000/youtube-squared.png)](https://www.youtube.com/@ishaileshmishra) [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://x.com/ishaileshmisra) [![Medium](https://img.icons8.com/color/48/000000/medium-logo.png)](https://medium.com/@ishaileshmishra) 
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
