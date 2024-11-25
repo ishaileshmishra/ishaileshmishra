@@ -73,7 +73,7 @@ Checkout the [Repositories](https://github.com/ishaileshmishra?tab=repositories&
 
 ### Professional Summary
 
-I am a software developer with over 10 years of experience specializing in backend and mobile development. My expertise includes building scalable APIs using **Node.js** (Express and NestJS), as well as integrating **artificial intelligence** solutions to enhance application functionalities. I have successfully transitioned monolithic applications to **microservices architectures**, ensuring efficient performance and resource management.
+I am a seasoned software developer with over a decade of expertise in backend and mobile development, delivering innovative and robust solutions across diverse platforms. My expertise includes building scalable APIs using **Node.js** (Express and NestJS), as well as integrating **artificial intelligence** solutions to enhance application functionalities. I have successfully transitioned monolithic applications to **microservices architectures**, ensuring efficient performance and resource management.
 
 In addition to backend development, I excel in mobile app development across **Android Native**, **iOS (SwiftUI)**, and **Flutter**. I am recognized as an expert in **Flutter**, having developed numerous cross-platform applications that received significant recognition on GitHub, with over **200+ favorites and forks**. My mobile projects focus on delivering high-quality user experiences while optimizing performance and responsiveness.
 
