@@ -1,4 +1,4 @@
-[<img src='https://raw.githubusercontent.com/ishaileshmishra/ishaileshmishra/refs/heads/master/icons/1.png'>](https://github.com/ishaileshmishra)
+[<img src='https://raw.githubusercontent.com/ishaileshmishra/ishaileshmishra/refs/heads/master/icons/shaileshmishra.png'>](https://github.com/ishaileshmishra)
 
 
 
