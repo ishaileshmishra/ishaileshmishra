@@ -73,16 +73,18 @@ Checkout the [Repositories](https://github.com/ishaileshmishra?tab=repositories&
 
 ### Professional Summary
 
-I am a seasoned software developer with over a decade of expertise in backend and mobile development, delivering innovative and robust solutions across diverse platforms. My expertise includes building scalable APIs using **Node.js** (Express and NestJS), as well as integrating **artificial intelligence** solutions to enhance application functionalities. I have successfully transitioned monolithic applications to **microservices architectures**, ensuring efficient performance and resource management.
+I’m a software architect with 10+ years of experience in backend and mobile development. I build scalable APIs with **Node.js** (Express, NestJS) and design reliable systems using **microservices**. I also integrate **AI solutions** to extend app capabilities.
 
-In addition to backend development, I excel in mobile app development across **Android Native**, **iOS (SwiftUI)**, and **Flutter**. I am recognized as an expert in **Flutter**, having developed numerous cross-platform applications that received significant recognition on GitHub, with over **200+ favorites and forks**. My mobile projects focus on delivering high-quality user experiences while optimizing performance and responsiveness.
+On the mobile side, I develop apps in **Android (Java/Kotlin)**, **iOS (SwiftUI)**, and **Flutter**. My **Flutter projects** have gained wide recognition on GitHub with 200+ stars and forks. I focus on creating fast, responsive apps with great user experiences.
 
 ### Key Skills
-- **Backend**: Node.js (Express & NestJS), Spring Boot, Python (Flask & Django), RESTful APIs, MongoDB.
-- **Mobile**: Android Native (Java/Kotlin), iOS (SwiftUI), Flutter, custom UI components, Google Maps and social APIs.
-- **Development Practices**: Agile methodologies, Git for version control, performance optimization, and security protocols.
 
-I am passionate about creating robust, user-focused solutions that drive meaningful results. My full-stack approach ensures seamless integration between backend services and mobile applications, delivering comprehensive solutions that meet both technical and business needs.
+* **Backend**: Node.js, Spring Boot, Python (Flask, Django), REST APIs, MongoDB
+* **Mobile**: Android, iOS (SwiftUI), Flutter, custom UI, Google Maps & social APIs
+* **Practices**: Agile, Git, performance tuning, security
+
+I enjoy building solutions that connect backend services with mobile apps to deliver impact for both users and businesses.
+
 
 
 ## Stay Connected
