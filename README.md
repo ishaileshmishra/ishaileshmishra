@@ -4,7 +4,7 @@
 
 <!-- [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/shailesh-mishra_64468120.png' alt='Java' width='1200'>](https://github.com/ishaileshmishra) -->
 
-🚀 I'm deeply passionate about Backend Development, Mobile Technology, and Software Development. With a strong foundation in Java, Node.js, Python, Kotlin, Android, Flutter, and Dart, I love building impactful applications that solve real-world problems.
+🚀 Passionate about backend and mobile development. Skilled in Java, Node.js, Python, Kotlin, Android, Flutter, and Dart—building applications that solve real problems.
 
 ## ✍️ GitHub Achievements 
 
@@ -73,7 +73,7 @@ Checkout the [Repositories](https://github.com/ishaileshmishra?tab=repositories&
 
 ### Professional Summary
 
-I’m a software architect with 10+ years of experience in backend and mobile development. I build scalable APIs with **Node.js** (Express, NestJS) and design reliable systems using **microservices**. I also integrate **AI solutions** to extend app capabilities.
+I’m a software engineer with 10+ years of experience in backend and mobile development. I build scalable APIs with **Node.js** (Express, NestJS) and design reliable systems using **microservices**. I also integrate **AI solutions** to extend app capabilities.
 
 On the mobile side, I develop apps in **Android (Java/Kotlin)**, **iOS (SwiftUI)**, and **Flutter**. My **Flutter projects** have gained wide recognition on GitHub with 200+ stars and forks. I focus on creating fast, responsive apps with great user experiences.
 
