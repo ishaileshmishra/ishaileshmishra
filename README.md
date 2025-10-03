@@ -1,11 +1,5 @@
 [<img src='https://raw.githubusercontent.com/ishaileshmishra/ishaileshmishra/refs/heads/master/icons/shaileshmishra.png'>](https://github.com/ishaileshmishra)
 
-<h3 align="start">⚡ GitHub Stats & Languages ⚡</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&layout=compact&theme=tokyonight" width="41%"/>
-</p>
-
 <p align="center">
   <!-- Streak -->
   <a href="https://github.com/ishaileshmishra" title="My GitHub profile / streak">
@@ -22,6 +16,13 @@
            style="max-width:380px; width:100%; display:inline-block;" />
     </picture>
   </a>
+</p>
+
+### GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&layout=compact&theme=tokyonight" width="41%"/>
 </p>
 
 ---
