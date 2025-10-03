@@ -1,6 +1,6 @@
 [<img src='https://raw.githubusercontent.com/ishaileshmishra/ishaileshmishra/refs/heads/master/icons/shaileshmishra.png'>](https://github.com/ishaileshmishra)
 
-<h3 align="start">⚡ GitHub Stats & Languages ⚡</h3>
+<h4 align="start">⚡ GitHub Stats & Languages ⚡</h4>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&layout=compact&theme=tokyonight" width="41%"/>
