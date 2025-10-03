@@ -1,31 +1,43 @@
 [<img src='https://raw.githubusercontent.com/ishaileshmishra/ishaileshmishra/refs/heads/master/icons/shaileshmishra.png'>](https://github.com/ishaileshmishra)
 
-<a href="https://github.com/ishaileshmishra/ishaileshmishra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&hide=html,gdscript,roff,latte,qml,asp,swift,objective-c,kotlin,shell,java,css,scss,javascript,c,c%2B%2B,c%23,batchfile,cmake,ruby&theme=dark&hide_langs_below=1" />
-</a>
+<h3 align="center">⚡ GitHub Stats & Languages ⚡</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&layout=compact&theme=tokyonight" width="41%"/>
+</p>
 
-<a href="https://github.com/ishaileshmishra/ishaileshmishra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=radical&line_height=27&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="talhakerpicci's github stats" />
-</a>
+<p align="center">
+  <!-- Streak -->
+  <a href="https://github.com/ishaileshmishra" title="My GitHub profile / streak">
+    <img src="https://github-readme-streak-stats-weld-one.vercel.app?user=ishaileshmishra&theme=gruvbox_duo&hide_border=true"
+         alt="GitHub Streak" style="max-width:380px; width:100%; display:inline-block;" />
+  </a>
 
-[![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=ishaileshmishra&theme=gruvbox_duo&hide_border=true)](https://ishaileshmishra.medium.com/)
+  <!-- Overview (dark/light aware) -->
+  <a href="https://github.com/ishaileshmishra" title="Repository overview & activity" style="display:inline-block; margin-left:12px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishaileshmishra/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishaileshmishra/github-stats/master/generated/overview.svg#gh-light-mode-only">
+      <img alt="GitHub activity overview" src="https://raw.githubusercontent.com/ishaileshmishra/github-stats/master/generated/overview.svg#gh-light-mode-only"
+           style="max-width:380px; width:100%; display:inline-block;" />
+    </picture>
+  </a>
+</p>
 
+## 📊 Profile Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishaileshmishra/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishaileshmishra/github-stats/master/generated/overview.svg#gh-light-mode-only">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+<p align="center">
+  <a href="https://github.com/ishaileshmishra">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra" alt="Visitor Count" />
+  </a>
+  <a href="https://github.com/ishaileshmishra?tab=followers">
+    <img src="https://img.shields.io/github/followers/ishaileshmishra?label=Followers&style=flat-square" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/ishaileshmishra?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ishaileshmishra?label=Stars&style=flat-square" alt="GitHub Stars" />
+  </a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishaileshmishra/github-stats/master/generated/languages.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishaileshmishra/github-stats/master/generated/languages.svg#gh-light-mode-only">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-
-
-
-[![Total Visitors](https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra)](https://github.com/ishaileshmishra)
 
 ## 🛠️ Tools & Technologies
 
