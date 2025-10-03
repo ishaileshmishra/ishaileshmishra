@@ -24,6 +24,8 @@
   </a>
 </p>
 
+---
+
 ### 📊 Profile Stats
 
 <p align="left">
@@ -38,17 +40,23 @@
   </a>
 </p>
 
+---
+
 ### Professional Summary
 
 I’m a software engineer with 10+ years of experience in backend and mobile development. I build scalable APIs with **Node.js** (Express, NestJS) and design reliable systems using **microservices**. I also integrate **AI solutions** to extend app capabilities.
 
 On the mobile side, I develop apps in **Android (Java/Kotlin)**, **iOS (SwiftUI)**, and **Flutter**. My **Flutter projects** have gained wide recognition on GitHub with 200+ stars and forks. I focus on creating fast, responsive apps with great user experiences.
 
+---
+
 ### 🛠️ Tools & Technologies & Key Skills
 
 - **Backend**: Node.js, Spring Boot, Python (Flask, Django), REST APIs, MongoDB
 - **Mobile**: Android, iOS (SwiftUI), Flutter, custom UI, Google Maps & social APIs
 - **Practices**: Agile, Git, performance tuning, security
+
+---
 
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -70,7 +78,7 @@ On the mobile side, I develop apps in **Android (Java/Kotlin)**, **iOS (SwiftUI)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Nest.js](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-<p align="center">
+<p align="start">
   <a href="https://ishaileshmishra.medium.com/">
     <img src="https://img.shields.io/badge/Read%20my%20Medium%20Articles-FF6C00?style=for-the-badge&logo=medium&logoColor=white" alt="Read my Medium Articles"/>
   </a>
@@ -78,7 +86,9 @@ On the mobile side, I develop apps in **Android (Java/Kotlin)**, **iOS (SwiftUI)
 
 ## Stay Connected
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ishaileshmishra/) [![Medium](https://img.icons8.com/color/48/000000/medium-logo.png)](https://ishaileshmishra.medium.com) [![YouTube](https://img.icons8.com/color/48/000000/youtube-squared.png)](https://www.youtube.com/@ishaileshmishra) [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://x.com/ishaileshmisra) [![Medium](https://img.icons8.com/color/48/000000/medium-logo.png)](https://medium.com/@ishaileshmishra)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ishaileshmishra/) [![YouTube](https://img.icons8.com/color/48/000000/youtube-squared.png)](https://www.youtube.com/@ishaileshmishra) [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://x.com/shailestalks) [![Medium](https://img.icons8.com/color/48/000000/medium-logo.png)](https://medium.com/@ishaileshmishra)
+
+---
 
 ### ✍️ Random Dev Quote
 
