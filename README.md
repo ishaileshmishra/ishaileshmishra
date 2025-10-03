@@ -26,7 +26,7 @@
 
 ### 📊 Profile Stats
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ishaileshmishra">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ishaileshmishra" alt="Visitor Count" />
   </a>
@@ -70,7 +70,7 @@ On the mobile side, I develop apps in **Android (Java/Kotlin)**, **iOS (SwiftUI)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Nest.js](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-<p align="left">
+<p align="center">
   <a href="https://ishaileshmishra.medium.com/">
     <img src="https://img.shields.io/badge/Read%20my%20Medium%20Articles-FF6C00?style=for-the-badge&logo=medium&logoColor=white" alt="Read my Medium Articles"/>
   </a>
