@@ -1,15 +1,5 @@
 [<img src='https://raw.githubusercontent.com/ishaileshmishra/ishaileshmishra/refs/heads/master/icons/shaileshmishra.png'>](https://github.com/ishaileshmishra)
 
-<!-- [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/shailesh-mishra_64468120.png' alt='Java' width='1200'>](https://github.com/ishaileshmishra) -->
-
-## ✍️ GitHub Achievements 
-
-<br>
-
-Checkout the [Repositories](https://github.com/ishaileshmishra?tab=repositories&q=&type=&language=&sort=stargazers)
-
-<br>
-
 <a href="https://github.com/ishaileshmishra/ishaileshmishra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&hide=html,gdscript,roff,latte,qml,asp,swift,objective-c,kotlin,shell,java,css,scss,javascript,c,c%2B%2B,c%23,batchfile,cmake,ruby&theme=dark&hide_langs_below=1" />
 </a>
