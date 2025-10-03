@@ -78,15 +78,17 @@ On the mobile side, I develop apps in **Android (Java/Kotlin)**, **iOS (SwiftUI)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Nest.js](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-<p align="start">
-  <a href="https://ishaileshmishra.medium.com/">
-    <img src="https://img.shields.io/badge/Read%20my%20Medium%20Articles-FF6C00?style=for-the-badge&logo=medium&logoColor=white" alt="Read my Medium Articles"/>
-  </a>
-</p>
-
 ## Stay Connected
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ishaileshmishra/) [![YouTube](https://img.icons8.com/color/48/000000/youtube-squared.png)](https://www.youtube.com/@ishaileshmishra) [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://x.com/shailestalks) [![Medium](https://img.icons8.com/color/48/000000/medium-logo.png)](https://medium.com/@ishaileshmishra)
+
+---
+
+<p align="start">
+<a href="https://ishaileshmishra.medium.com/">
+<img src="https://img.shields.io/badge/Read%20my%20Medium%20Articles-FF6C00?style=for-the-badge&logo=medium&logoColor=white" alt="Read my Medium Articles"/>
+</a>
+</p>
 
 ---
 
