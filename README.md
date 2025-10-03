@@ -1,10 +1,6 @@
 [<img src='https://raw.githubusercontent.com/ishaileshmishra/ishaileshmishra/refs/heads/master/icons/shaileshmishra.png'>](https://github.com/ishaileshmishra)
 
-
-
 <!-- [<img src='https://github.com/ishaileshmishra/ishaileshmishra/blob/master/icons/shailesh-mishra_64468120.png' alt='Java' width='1200'>](https://github.com/ishaileshmishra) -->
-
-🚀 Passionate about backend and mobile development. Skilled in Java, Node.js, Python, Kotlin, Android, Flutter, and Dart—building applications that solve real problems.
 
 ## ✍️ GitHub Achievements 
 
