@@ -70,95 +70,15 @@ On the mobile side, I develop apps in **Android (Java/Kotlin)**, **iOS (SwiftUI)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Nest.js](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
+<p align="left">
+  <a href="https://ishaileshmishra.medium.com/">
+    <img src="https://img.shields.io/badge/Read%20my%20Medium%20Articles-FF6C00?style=for-the-badge&logo=medium&logoColor=white" alt="Read my Medium Articles"/>
+  </a>
+</p>
+
 ## Stay Connected
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ishaileshmishra/) [![Medium](https://img.icons8.com/color/48/000000/medium-logo.png)](https://ishaileshmishra.medium.com) [![YouTube](https://img.icons8.com/color/48/000000/youtube-squared.png)](https://www.youtube.com/@ishaileshmishra) [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://x.com/ishaileshmisra) [![Medium](https://img.icons8.com/color/48/000000/medium-logo.png)](https://medium.com/@ishaileshmishra)
-
-## 📚 My Articles
-
-<!-- ARTICLES_START -->
-
-<p align="center" style="margin-bottom:12px; font-size:16px;">A quick look at my latest Medium posts</p>
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="250">
-      <a href="https://ishaileshmishra.medium.com/mastering-distributed-systems-a-deep-dive-into-40-essential-topics-for-tech-enthusiasts-92d454877a33">
-        <img src="https://cdn-images-1.medium.com/max/1024/0*-KG_gsFIrO3fYmYO" alt="Mastering Distributed Systems" width="250" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
-        <br>
-        <strong>Mastering Distributed Systems</strong>
-      </a>
-    </td>
-    <td align="center" valign="top" width="250">
-      <a href="https://ishaileshmishra.medium.com/why-grpc-is-faster-than-a-json-based-rest-api-d555307b9b45">
-        <img src="https://cdn-images-1.medium.com/max/1024/0*LkB6LOteR71AJ5pK" alt="Why gRPC is Faster Than REST" width="250" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
-        <br>
-        <strong>Why gRPC is Faster Than REST</strong>
-      </a>
-    </td>
-    <td align="center" valign="top" width="250">
-      <a href="https://ishaileshmishra.medium.com/setup-background-script-runner-on-macos-8bafca63ed2d">
-        <img src="https://cdn-images-1.medium.com/max/1024/0*AO-GBiN8uVeK9yq8" alt="Setup Background Script Runner on macOS" width="250" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
-        <br>
-        <strong>Setup Background Script Runner on macOS</strong>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" valign="top" width="250">
-      <a href="https://ishaileshmishra.medium.com/mastering-amazon-sqs-with-node-js-a-comprehensive-guide-713f952211e5">
-        <img src="https://cdn-images-1.medium.com/max/1024/1*vZ8BuTaQhbJv6rnclf6K8g.png" alt="Mastering Amazon SQS" width="250" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
-        <br>
-        <strong>Mastering Amazon SQS</strong>
-      </a>
-    </td>
-    <td align="center" valign="top" width="250">
-      <a href="https://ishaileshmishra.medium.com/effortlessly-import-bson-files-into-mongodb-with-mongorestore-6bd302a8c10e">
-        <img src="https://cdn-images-1.medium.com/max/1024/0*BapBvEEP_6LILZ83" alt="Import BSON Files into MongoDB" width="250" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
-        <br>
-        <strong>Import BSON Files into MongoDB</strong>
-      </a>
-    </td>
-    <td align="center" valign="top" width="250">
-      <a href="https://ishaileshmishra.medium.com/mastering-flutter-ui-animations-a-step-by-step-guide-da5490b3ad24">
-        <img src="https://cdn-images-1.medium.com/max/1024/0*tBZ6lgPDsNDFDCDP" alt="Mastering Flutter UI Animations" width="250" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
-        <br>
-        <strong>Mastering Flutter UI Animations</strong>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" valign="top" width="250">
-      <a href="https://ishaileshmishra.medium.com/article7">
-        <img src="https://via.placeholder.com/250x140.png?text=Article+7" alt="Article 7" width="250" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
-        <br>
-        <strong>Article 7</strong>
-      </a>
-    </td>
-    <td align="center" valign="top" width="250">
-      <a href="https://ishaileshmishra.medium.com/article8">
-        <img src="https://via.placeholder.com/250x140.png?text=Article+8" alt="Article 8" width="250" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
-        <br>
-        <strong>Article 8</strong>
-      </a>
-    </td>
-    <td align="center" valign="top" width="250">
-      <a href="https://ishaileshmishra.medium.com/article9">
-        <img src="https://via.placeholder.com/250x140.png?text=Article+9" alt="Article 9" width="250" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
-        <br>
-        <strong>Article 9</strong>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://ishaileshmishra.medium.com/">View all articles on Medium →</a></p>
-
-<p style="font-size:12px; color:#9e9e9e; margin-top:8px">Auto-updated from Medium RSS.</p>
-
-<!-- ARTICLES_END -->
 
 ### ✍️ Random Dev Quote
 
