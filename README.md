@@ -39,7 +39,20 @@
 </p>
 
 
-## 🛠️ Tools & Technologies
+
+
+
+### Professional Summary
+
+I’m a software engineer with 10+ years of experience in backend and mobile development. I build scalable APIs with **Node.js** (Express, NestJS) and design reliable systems using **microservices**. I also integrate **AI solutions** to extend app capabilities.
+
+On the mobile side, I develop apps in **Android (Java/Kotlin)**, **iOS (SwiftUI)**, and **Flutter**. My **Flutter projects** have gained wide recognition on GitHub with 200+ stars and forks. I focus on creating fast, responsive apps with great user experiences.
+
+### 🛠️ Tools & Technologies & Key Skills
+
+* **Backend**: Node.js, Spring Boot, Python (Flask, Django), REST APIs, MongoDB
+* **Mobile**: Android, iOS (SwiftUI), Flutter, custom UI, Google Maps & social APIs
+* **Practices**: Agile, Git, performance tuning, security
 
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
@@ -68,27 +81,9 @@
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) 
 
 
-
-### Professional Summary
-
-I’m a software engineer with 10+ years of experience in backend and mobile development. I build scalable APIs with **Node.js** (Express, NestJS) and design reliable systems using **microservices**. I also integrate **AI solutions** to extend app capabilities.
-
-On the mobile side, I develop apps in **Android (Java/Kotlin)**, **iOS (SwiftUI)**, and **Flutter**. My **Flutter projects** have gained wide recognition on GitHub with 200+ stars and forks. I focus on creating fast, responsive apps with great user experiences.
-
-### Key Skills
-
-* **Backend**: Node.js, Spring Boot, Python (Flask, Django), REST APIs, MongoDB
-* **Mobile**: Android, iOS (SwiftUI), Flutter, custom UI, Google Maps & social APIs
-* **Practices**: Agile, Git, performance tuning, security
-
-I enjoy building solutions that connect backend services with mobile apps to deliver impact for both users and businesses.
-
-
-
 ## Stay Connected
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ishaileshmishra/) [![Medium](https://img.icons8.com/color/48/000000/medium-logo.png)](https://ishaileshmishra.medium.com) [![YouTube](https://img.icons8.com/color/48/000000/youtube-squared.png)](https://www.youtube.com/@ishaileshmishra) [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://x.com/ishaileshmisra) [![Medium](https://img.icons8.com/color/48/000000/medium-logo.png)](https://medium.com/@ishaileshmishra) 
-
 
 
 ## 📚 My Articles
