@@ -18,7 +18,7 @@
 ## 🧑‍💻 About Me
 
 ```ts
-const shailesh: Engineering = {
+const shailesh = {
   role        : "Senior Software Engineer @ Contentstack",
   experience  : "10+ years",
   focus       : ["Backend APIs", "Mobile Apps", "AI Integrations"],
