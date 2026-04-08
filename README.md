@@ -1,10 +1,6 @@
 [<img src='https://raw.githubusercontent.com/ishaileshmishra/ishaileshmishra/refs/heads/master/icons/shaileshmishra.png'>](https://github.com/ishaileshmishra)
 
 <h4 align="start">⚡ GitHub Stats & Languages ⚡</h4>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&layout=compact&theme=tokyonight" width="41%"/>
-</p>
 
 <p align="center">
   <!-- Streak -->
