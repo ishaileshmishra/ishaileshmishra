@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Shailesh+Mishra+👋;Senior+Software+Engineer;Backend+%7C+Mobile+%7C+AI+Integrations;10%2B+Years+of+Crafting+Clean+Code)](https://github.com/ishaileshmishra)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Shailesh+Mishra+👋;Engineering;Backend+%7C+Mobile+%7C+AI+Integrations;10%2B+Years+of+Crafting+Clean+Code)](https://github.com/ishaileshmishra)
 
 <p>
   <a href="https://www.linkedin.com/in/ishaileshmishra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
