@@ -19,7 +19,7 @@
 
 ```ts
 const shailesh = {
-  role        : "Senior Software Engineer @ Contentstack",
+  role        : "Engineering @Contentstack",
   experience  : "10+ years",
   focus       : ["Backend APIs", "Mobile Apps", "AI Integrations"],
   backend     : ["Node.js", "NestJS", "Java", "Spring Boot", "Python"],
